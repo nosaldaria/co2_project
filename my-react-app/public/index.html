@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Earthy Systems</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.9.1/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.9.1/mapbox-gl.js"></script>
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+    /* Кнопки перемикання */
+    #date-picker {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #2A3855;
+      color: white;
+      padding: 15px 20px;
+      border-radius: 10px;
+      font-family: 'Inter', sans-serif;
+      z-index: 1000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .date-group {
+      margin: 10px 0;
+      display: flex;
+      align-items: center;
+    }
+
+    .date-group button {
+      background: none;
+      border: none;
+      color: white;
+      font-size: 20px;
+      cursor: pointer;
+      margin: 0 10px;
+      transition: transform 0.2s;
+    }
+
+    .date-group button:hover {
+      transform: scale(1.2);
+    }
+
+    .date-group span {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    /* Інші стилі */
+    #earthy-logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      background-color: #2A3855;
+      color: white;
+      padding: 15px 20px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      z-index: 1000;
+    }
+
+    #earthy-logo i {
+      font-size: 40px;
+      margin-right: 15px;
+    }
+
+    .logo-text {
+      display: flex;
+      flex-direction: column;
+      line-height: 1.2;
+    }
+
+    .earthy {
+      font-size: 25px;
+      font-weight: bold;
+      font-family: "Intel", sans-serif;
+    }
+
+    .systems {
+      font-size: 22px;
+      font-family: "Intel", sans-serif;
+    }
+
+    /* Вкладки */
+    .tabs {
+      display: flex;
+      background: #2A3855;
+      border-radius: 20px;
+      padding: 18px;
+      position: absolute;
+      top: 20px;
+      left: 200px;
+      z-index: 1000;
+      height: 50px; /* Висота вкладок дорівнює висоті лого */
+    }
+
+    .tab {
+      padding: 10px 20px;
+      border-radius: 20px;
+      cursor: pointer;
+      color: white;
+      font-size: 18px;
+      font-family: 'Inter', sans-serif;
+      transition: background 0.3s, color 0.3s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .tab.active {
+      background: white;
+      color: #2A3855;
+    }
+
+    .tab:not(.active) {
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Мапа -->
+<div id="map"></div>
+
+<!-- Логотип -->
+<div id="earthy-logo">
+  <i class="fas fa-globe"></i>
+  <div class="logo-text">
+    <div class="earthy">EARTHY</div>
+    <div class="systems">SYSTEMS</div>
+  </div>
+</div>
+
+<!-- Вкладки -->
+<div class="tabs">
+  <div class="tab active" onclick="openTab('map')">Map</div>
+  <div class="tab" onclick="openTab('table')">Table</div>
+  <div class="tab" onclick="openTab('chart')">Chart</div>
+</div>
+
+<!-- Кнопки для перемикання дат -->
+<div id="date-picker">
+  <!-- Перемикання місяця -->
+  <div class="date-group">
+    <button onclick="changeMonth(-1)">◀</button>
+    <span id="current-month">Січень</span>
+    <button onclick="changeMonth(1)">▶</button>
+  </div>
+
+  <!-- Перемикання року -->
+  <div class="date-group">
+    <button onclick="changeYear(-1)">◀</button>
+    <span id="current-year">2025</span>
+    <button onclick="changeYear(1)">▶</button>
+  </div>
+</div>
+
+<script>
+  // Ініціалізація мапи
+  mapboxgl.accessToken = 'pk.eyJ1IjoiZGFyeW5hbm9zYWwiLCJhIjoiY20ybGs2OWR5MGN2NDJrczlvNDY2ejR0MyJ9.DR29qpjTFFxBnjmbfWOSIQ';
+  const map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v9',
+    projection: 'globe',
+    zoom: 1,
+    center: [30, 15]
+  });
+
+  map.addControl(new mapboxgl.NavigationControl());
+  map.scrollZoom.disable();
+
+  map.on('style.load', () => {
+    map.setFog({});
+  });
+
+  // Логіка для зміни місяців та років
+  const months = ['Січень', 'Лютий', 'Березень', 'Квітень', 'Травень', 'Червень', 'Липень', 'Серпень', 'Вересень', 'Жовтень', 'Листопад', 'Грудень'];
+  let currentMonthIndex = 0; // Початковий місяць (0 = Січень)
+  let currentYear = 2025; // Початковий рік
+
+  function updateDateDisplay() {
+    document.getElementById('current-month').textContent = months[currentMonthIndex];
+    document.getElementById('current-year').textContent = currentYear;
+  }
+
+  function changeMonth(step) {
+    currentMonthIndex += step;
+    if (currentMonthIndex < 0) {
+      currentMonthIndex = 11;
+      currentYear--;
+    } else if (currentMonthIndex > 11) {
+      currentMonthIndex = 0;
+      currentYear++;
+    }
+
+    // Заборона перемикання у майбутнє (за січень 2025)
+    if (currentYear > 2025 || (currentYear === 2025 && currentMonthIndex > 0)) {
+      currentMonthIndex = 0;
+      currentYear = 2025;
+    }
+
+    updateDateDisplay();
+  }
+
+  function changeYear(step) {
+    currentYear += step;
+
+    // Заборона перемикання у майбутнє (за 2025)
+    if (currentYear > 2025) {
+      currentYear = 2025;
+    }
+
+    // Заборона перемикання за межі поточного місяця
+    if (currentYear === 2025 && currentMonthIndex > 0) {
+      currentMonthIndex = 0;
+    }
+
+    updateDateDisplay();
+  }
+
+  function openTab(tabName) {
+    const tabs = document.querySelectorAll('.tab');
+    tabs.forEach(tab => tab.classList.remove('active'));
+
+    event.target.classList.add('active');
+  }
+
+  // Оновити початковий стан
+  updateDateDisplay();
+</script>
+
+</body>
+</html>
