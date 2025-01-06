@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Таблиця викидів CO2</title>
+</head>
+<body>
+    <h1>Таблиця викидів CO2</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Країна</th>
+                <th>Рік</th>
+                <th>Викиди CO2 (тонн)</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for emission in emissions %}
+                <tr>
+                    <td>{{ emission.country.country_name }}</td>
+                    <td>{{ emission.year.Year }}</td>
+                    <td>{{ emission.annual_co2_emissions }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
