@@ -1,0 +1,3367 @@
+Country,Year,Energy Consumption
+Canada,1990,0.0
+Mexico,1990,1.0645161637512501e-05
+US,1990,0.003947171848267317
+Total North America,1990,0.003957817009904829
+Argentina,1990,0.0
+Brazil,1990,0.0
+Chile,1990,0.0
+Colombia,1990,0.0
+Ecuador,1990,0.0
+Peru,1990,0.0
+Trinidad & Tobago,1990,0.0
+Venezuela,1990,0.0
+Central America,1990,0.0
+Other Caribbean,1990,0.0
+Other South America,1990,0.0
+Total S. & Cent. America,1990,0.0
+Austria,1990,0.0
+Belgium,1990,0.0
+Bulgaria,1990,0.0
+Croatia,1990,0.0
+Cyprus,1990,0.0
+Czech Republic,1990,0.0
+Denmark,1990,0.0
+Estonia,1990,0.0
+Finland,1990,4.843548595090397e-06
+France,1990,0.0
+Germany,1990,1.0645161637512501e-05
+Greece,1990,0.0
+Hungary,1990,0.0
+Iceland,1990,0.0
+Ireland,1990,0.0
+Italy,1990,4.2580646550050005e-05
+Latvia,1990,0.0
+Lithuania,1990,0.0
+Luxembourg,1990,0.0
+Netherlands,1990,0.0
+North Macedonia,1990,0.0
+Norway,1990,0.0
+Poland,1990,0.0
+Portugal,1990,0.0
+Romania,1990,0.0
+Slovakia,1990,0.0
+Slovenia,1990,0.0
+Spain,1990,6.38709680060856e-05
+Sweden,1990,0.0
+Switzerland,1990,1.0645161637512501e-05
+Turkey,1990,0.0
+Ukraine,1990,0.0
+United Kingdom,1990,0.0
+Other Europe,1990,1.0645161410138826e-06
+Total Europe,1990,0.0001336500025672649
+Azerbaijan,1990,0.0
+Belarus,1990,0.0
+Kazakhstan,1990,0.0
+Russian Federation,1990,0.0
+Turkmenistan,1990,0.0
+USSR,1990,0.0
+Uzbekistan,1990,0.0
+Other CIS,1990,0.0
+Total CIS,1990,0.0
+Iran,1990,0.0
+Iraq,1990,0.0
+Israel,1990,0.0
+Kuwait,1990,0.0
+Oman,1990,0.0
+Qatar,1990,0.0
+Saudi Arabia,1990,0.0
+United Arab Emirates,1990,0.0
+Other Middle East,1990,0.0
+Total Middle East,1990,0.0
+Algeria,1990,0.0
+Egypt,1990,0.0
+Morocco,1990,0.0
+South Africa,1990,0.0
+Eastern Africa,1990,0.0
+Middle Africa,1990,0.0
+Western Africa,1990,0.0
+Other Northern Africa,1990,0.0
+Other Southern Africa,1990,0.0
+Total Africa,1990,0.0
+Australia,1990,0.0
+Bangladesh,1990,0.0
+China,1990,2.1290323275025003e-05
+China Hong Kong SAR,1990,0.0
+India,1990,0.0
+Indonesia,1990,0.0
+Japan,1990,1.0645161637512501e-05
+Malaysia,1990,0.0
+New Zealand,1990,0.0
+Pakistan,1990,0.0
+Philippines,1990,0.0
+Singapore,1990,0.0
+South Korea,1990,1.0645161637512501e-05
+Sri Lanka,1990,0.0
+Taiwan,1990,0.0
+Thailand,1990,0.0
+Vietnam,1990,0.0
+Other Asia Pacific,1990,0.0
+Total Asia Pacific,1990,4.2580646550050005e-05
+Canada,1991,0.0
+Mexico,1991,2.1290323275025003e-05
+US,1991,0.005091079045087099
+Total North America,1991,0.005112369368362124
+Argentina,1991,0.0
+Brazil,1991,0.0
+Chile,1991,0.0
+Colombia,1991,0.0
+Ecuador,1991,0.0
+Peru,1991,0.0
+Trinidad & Tobago,1991,0.0
+Venezuela,1991,0.0
+Central America,1991,0.0
+Other Caribbean,1991,0.0
+Other South America,1991,0.0
+Total S. & Cent. America,1991,0.0
+Austria,1991,0.0
+Belgium,1991,0.0
+Bulgaria,1991,0.0
+Croatia,1991,0.0
+Cyprus,1991,0.0
+Czech Republic,1991,0.0
+Denmark,1991,0.0
+Estonia,1991,0.0
+Finland,1991,5.5354839787469245e-06
+France,1991,0.0
+Germany,1991,1.0645161637512501e-05
+Greece,1991,0.0
+Hungary,1991,0.0
+Iceland,1991,0.0
+Ireland,1991,0.0
+Italy,1991,5.32258054590784e-05
+Latvia,1991,0.0
+Lithuania,1991,0.0
+Luxembourg,1991,0.0
+Netherlands,1991,0.0
+North Macedonia,1991,0.0
+Norway,1991,0.0
+Poland,1991,0.0
+Portugal,1991,0.0
+Romania,1991,0.0
+Slovakia,1991,0.0
+Slovenia,1991,0.0
+Spain,1991,7.451613055309281e-05
+Sweden,1991,0.0
+Switzerland,1991,2.1290323275025003e-05
+Turkey,1991,0.0
+Ukraine,1991,0.0
+United Kingdom,1991,0.0
+Other Europe,1991,1.0645161410138826e-06
+Total Europe,1991,0.00016627742104446952
+Azerbaijan,1991,0.0
+Belarus,1991,0.0
+Kazakhstan,1991,0.0
+Russian Federation,1991,0.0
+Turkmenistan,1991,0.0
+USSR,1991,0.0
+Uzbekistan,1991,0.0
+Other CIS,1991,0.0
+Total CIS,1991,0.0
+Iran,1991,0.0
+Iraq,1991,0.0
+Israel,1991,0.0
+Kuwait,1991,0.0
+Oman,1991,0.0
+Qatar,1991,0.0
+Saudi Arabia,1991,0.0
+United Arab Emirates,1991,0.0
+Other Middle East,1991,0.0
+Total Middle East,1991,0.0
+Algeria,1991,0.0
+Egypt,1991,0.0
+Morocco,1991,0.0
+South Africa,1991,0.0
+Eastern Africa,1991,0.0
+Middle Africa,1991,0.0
+Western Africa,1991,0.0
+Other Northern Africa,1991,0.0
+Other Southern Africa,1991,0.0
+Total Africa,1991,0.0
+Australia,1991,5.801612860523164e-05
+Bangladesh,1991,0.0
+China,1991,2.1290323275025003e-05
+China Hong Kong SAR,1991,0.0
+India,1991,0.0
+Indonesia,1991,0.0
+Japan,1991,1.0645161637512501e-05
+Malaysia,1991,0.0
+New Zealand,1991,0.0
+Pakistan,1991,0.0
+Philippines,1991,0.0
+Singapore,1991,0.0
+South Korea,1991,1.0645161637512501e-05
+Sri Lanka,1991,0.0
+Taiwan,1991,0.0
+Thailand,1991,0.0
+Vietnam,1991,0.0
+Other Asia Pacific,1991,0.0
+Total Asia Pacific,1991,0.00010059677515528165
+Canada,1992,2.185059929615818e-05
+Mexico,1992,3.19354840030428e-05
+US,1992,0.004352215211838484
+Total North America,1992,0.004406001295137685
+Argentina,1992,0.0
+Brazil,1992,0.0
+Chile,1992,0.0
+Colombia,1992,0.0
+Ecuador,1992,0.0
+Peru,1992,0.0
+Trinidad & Tobago,1992,0.0
+Venezuela,1992,0.0
+Central America,1992,0.0
+Other Caribbean,1992,0.0
+Other South America,1992,0.0
+Total S. & Cent. America,1992,0.0
+Austria,1992,0.0
+Belgium,1992,0.0
+Bulgaria,1992,0.0
+Croatia,1992,0.0
+Cyprus,1992,0.0
+Czech Republic,1992,0.0
+Denmark,1992,0.0
+Estonia,1992,0.0
+Finland,1992,6.3232259890355635e-06
+France,1992,1.5839999832678586e-05
+Germany,1992,2.1290323275025003e-05
+Greece,1992,0.0
+Hungary,1992,0.0
+Iceland,1992,0.0
+Ireland,1992,0.0
+Italy,1992,9.58064483711496e-05
+Latvia,1992,0.0
+Lithuania,1992,0.0
+Luxembourg,1992,0.0
+Netherlands,1992,1.0645161637512501e-05
+North Macedonia,1992,0.0
+Norway,1992,0.0
+Poland,1992,0.0
+Portugal,1992,0.0
+Romania,1992,0.0
+Slovakia,1992,0.0
+Slovenia,1992,0.0
+Spain,1992,8.516129310010001e-05
+Sweden,1992,0.0
+Switzerland,1992,3.19354840030428e-05
+Turkey,1992,0.0
+Ukraine,1992,0.0
+United Kingdom,1992,0.0
+Other Europe,1992,1.0645161410138826e-06
+Total Europe,1992,0.00026806645234955795
+Azerbaijan,1992,0.0
+Belarus,1992,0.0
+Kazakhstan,1992,0.0
+Russian Federation,1992,0.0
+Turkmenistan,1992,0.0
+USSR,1992,0.0
+Uzbekistan,1992,0.0
+Other CIS,1992,0.0
+Total CIS,1992,0.0
+Iran,1992,0.0
+Iraq,1992,0.0
+Israel,1992,0.0
+Kuwait,1992,0.0
+Oman,1992,0.0
+Qatar,1992,0.0
+Saudi Arabia,1992,0.0
+United Arab Emirates,1992,0.0
+Other Middle East,1992,0.0
+Total Middle East,1992,0.0
+Algeria,1992,0.0
+Egypt,1992,0.0
+Morocco,1992,0.0
+South Africa,1992,0.0
+Eastern Africa,1992,0.0
+Middle Africa,1992,0.0
+Western Africa,1992,0.0
+Other Northern Africa,1992,0.0
+Other Southern Africa,1992,0.0
+Total Africa,1992,0.0
+Australia,1992,0.00012880645226687193
+Bangladesh,1992,0.0
+China,1992,3.19354840030428e-05
+China Hong Kong SAR,1992,0.0
+India,1992,0.0
+Indonesia,1992,0.0
+Japan,1992,0.0001117741921916604
+Malaysia,1992,0.0
+New Zealand,1992,0.0
+Pakistan,1992,0.0
+Philippines,1992,0.0
+Singapore,1992,0.0
+South Korea,1992,2.1290323275025003e-05
+Sri Lanka,1992,0.0
+Taiwan,1992,0.0
+Thailand,1992,0.0
+Vietnam,1992,0.0
+Other Asia Pacific,1992,0.0
+Total Asia Pacific,1992,0.00029380645173660014
+Canada,1993,2.185059929615818e-05
+Mexico,1993,4.2580646550050005e-05
+US,1993,0.005058174952864647
+Total North America,1993,0.005122606198710855
+Argentina,1993,0.0
+Brazil,1993,0.0
+Chile,1993,0.0
+Colombia,1993,0.0
+Ecuador,1993,0.0
+Peru,1993,0.0
+Trinidad & Tobago,1993,0.0
+Venezuela,1993,0.0
+Central America,1993,0.0
+Other Caribbean,1993,0.0
+Other South America,1993,0.0
+Total S. & Cent. America,1993,0.0
+Austria,1993,1.0645161637512501e-05
+Belgium,1993,0.0
+Bulgaria,1993,0.0
+Croatia,1993,0.0
+Cyprus,1993,0.0
+Czech Republic,1993,0.0
+Denmark,1993,0.0
+Estonia,1993,0.0
+Finland,1993,7.153548267524457e-06
+France,1993,1.791580689314287e-05
+Germany,1993,3.19354840030428e-05
+Greece,1993,0.0
+Hungary,1993,0.0
+Iceland,1993,0.0
+Ireland,1993,0.0
+Italy,1993,0.000117096773465164
+Latvia,1993,0.0
+Lithuania,1993,0.0
+Luxembourg,1993,0.0
+Netherlands,1993,1.0645161637512501e-05
+North Macedonia,1993,0.0
+Norway,1993,0.0
+Poland,1993,0.0
+Portugal,1993,0.0
+Romania,1993,0.0
+Slovakia,1993,0.0
+Slovenia,1993,0.0
+Spain,1993,9.58064483711496e-05
+Sweden,1993,1.0645161637512501e-05
+Switzerland,1993,4.2580646550050005e-05
+Turkey,1993,0.0
+Ukraine,1993,0.0
+United Kingdom,1993,0.0
+Other Europe,1993,8.516128957580804e-08
+Total Europe,1993,0.00034450935375218705
+Azerbaijan,1993,0.0
+Belarus,1993,0.0
+Kazakhstan,1993,0.0
+Russian Federation,1993,0.0
+Turkmenistan,1993,0.0
+USSR,1993,0.0
+Uzbekistan,1993,0.0
+Other CIS,1993,0.0
+Total CIS,1993,0.0
+Iran,1993,0.0
+Iraq,1993,0.0
+Israel,1993,0.0
+Kuwait,1993,0.0
+Oman,1993,0.0
+Qatar,1993,0.0
+Saudi Arabia,1993,0.0
+United Arab Emirates,1993,0.0
+Other Middle East,1993,0.0
+Total Middle East,1993,0.0
+Algeria,1993,0.0
+Egypt,1993,0.0
+Morocco,1993,0.0
+South Africa,1993,0.0
+Eastern Africa,1993,0.0
+Middle Africa,1993,0.0
+Western Africa,1993,0.0
+Other Northern Africa,1993,0.0
+Other Southern Africa,1993,0.0
+Total Africa,1993,0.0
+Australia,1993,0.00015541935863438994
+Bangladesh,1993,0.0
+China,1993,4.2580646550050005e-05
+China Hong Kong SAR,1993,0.0
+India,1993,0.0
+Indonesia,1993,0.0
+Japan,1993,0.0002395161282038316
+Malaysia,1993,0.0
+New Zealand,1993,0.0
+Pakistan,1993,0.0
+Philippines,1993,0.0
+Singapore,1993,0.0
+South Korea,1993,2.1290323275025003e-05
+Sri Lanka,1993,0.0
+Taiwan,1993,0.0
+Thailand,1993,0.0
+Vietnam,1993,0.0
+Other Asia Pacific,1993,0.0
+Total Asia Pacific,1993,0.00045880645666329656
+Canada,1994,2.185059929615818e-05
+Mexico,1994,5.32258054590784e-05
+US,1994,0.005342517048120499
+Total North America,1994,0.005417593452875735
+Argentina,1994,0.0
+Brazil,1994,0.0
+Chile,1994,0.0
+Colombia,1994,0.0
+Ecuador,1994,0.0
+Peru,1994,0.0
+Trinidad & Tobago,1994,0.0
+Venezuela,1994,0.0
+Central America,1994,0.0
+Other Caribbean,1994,0.0
+Other South America,1994,0.0
+Total S. & Cent. America,1994,0.0
+Austria,1994,1.0645161637512501e-05
+Belgium,1994,0.0
+Bulgaria,1994,0.0
+Croatia,1994,0.0
+Cyprus,1994,0.0
+Czech Republic,1994,0.0
+Denmark,1994,0.0
+Estonia,1994,0.0
+Finland,1994,7.994515726750251e-06
+France,1994,1.9996936316601932e-05
+Germany,1994,4.2580646550050005e-05
+Greece,1994,0.0
+Hungary,1994,0.0
+Iceland,1994,0.0
+Ireland,1994,0.0
+Italy,1994,0.000117096773465164
+Latvia,1994,0.0
+Lithuania,1994,0.0
+Luxembourg,1994,0.0
+Netherlands,1994,1.0645161552247373e-07
+North Macedonia,1994,0.0
+Norway,1994,0.0
+Poland,1994,0.0
+Portugal,1994,0.0
+Romania,1994,0.0
+Slovakia,1994,0.0
+Slovenia,1994,0.0
+Spain,1994,0.0001064516109181568
+Sweden,1994,1.0645161637512501e-05
+Switzerland,1994,5.32258054590784e-05
+Turkey,1994,0.0
+Ukraine,1994,0.0
+United Kingdom,1994,0.0
+Other Europe,1994,1.9161289799285441e-07
+Total Europe,1994,0.00036893467622434173
+Azerbaijan,1994,0.0
+Belarus,1994,0.0
+Kazakhstan,1994,0.0
+Russian Federation,1994,0.0
+Turkmenistan,1994,0.0
+USSR,1994,0.0
+Uzbekistan,1994,0.0
+Other CIS,1994,0.0
+Total CIS,1994,0.0
+Iran,1994,0.0
+Iraq,1994,0.0
+Israel,1994,0.0
+Kuwait,1994,0.0
+Oman,1994,0.0
+Qatar,1994,0.0
+Saudi Arabia,1994,0.0
+United Arab Emirates,1994,0.0
+Other Middle East,1994,0.0
+Total Middle East,1994,0.0
+Algeria,1994,0.0
+Egypt,1994,0.0
+Morocco,1994,0.0
+South Africa,1994,0.0
+Eastern Africa,1994,0.0
+Middle Africa,1994,0.0
+Western Africa,1994,0.0
+Other Northern Africa,1994,0.0
+Other Southern Africa,1994,0.0
+Total Africa,1994,0.0
+Australia,1994,0.00018522579921409488
+Bangladesh,1994,0.0
+China,1994,5.32258054590784e-05
+China Hong Kong SAR,1994,0.0
+India,1994,0.0
+Indonesia,1994,0.0
+Japan,1994,0.00030870968475937843
+Malaysia,1994,0.0
+New Zealand,1994,0.0
+Pakistan,1994,0.0
+Philippines,1994,0.0
+Singapore,1994,0.0
+South Korea,1994,2.1290323275025003e-05
+Sri Lanka,1994,0.0
+Taiwan,1994,0.0
+Thailand,1994,0.0
+Vietnam,1994,0.0
+Other Asia Pacific,1994,0.0
+Total Asia Pacific,1994,0.0005684516127075767
+Canada,1995,4.089982758159749e-05
+Mexico,1995,5.32258054590784e-05
+US,1995,0.005476633086800575
+Total North America,1995,0.005570758719841251
+Argentina,1995,0.0
+Brazil,1995,0.0
+Chile,1995,0.0
+Colombia,1995,0.0
+Ecuador,1995,0.0
+Peru,1995,0.0
+Trinidad & Tobago,1995,0.0
+Venezuela,1995,0.0
+Central America,1995,0.0
+Other Caribbean,1995,0.0
+Other South America,1995,0.0
+Total S. & Cent. America,1995,0.0
+Austria,1995,1.0645161637512501e-05
+Belgium,1995,0.0
+Bulgaria,1995,0.0
+Croatia,1995,0.0
+Cyprus,1995,0.0
+Czech Republic,1995,0.0
+Denmark,1995,0.0
+Estonia,1995,0.0
+Finland,1995,8.910000360629056e-06
+France,1995,2.171612868551165e-05
+Germany,1995,5.32258054590784e-05
+Greece,1995,0.0
+Hungary,1995,0.0
+Iceland,1995,0.0
+Ireland,1995,0.0
+Italy,1995,0.0001383870985591784
+Latvia,1995,0.0
+Lithuania,1995,0.0
+Luxembourg,1995,0.0
+Netherlands,1995,1.0645161637512501e-05
+North Macedonia,1995,0.0
+Norway,1995,0.0
+Poland,1995,0.0
+Portugal,1995,0.0
+Romania,1995,0.0
+Slovakia,1995,0.0
+Slovenia,1995,0.0
+Spain,1995,0.00015967742365319282
+Sweden,1995,1.0645161637512501e-05
+Switzerland,1995,6.38709680060856e-05
+Turkey,1995,0.0
+Ukraine,1995,0.0
+United Kingdom,1995,0.0
+Other Europe,1995,3.4064515830323217e-07
+Total Europe,1995,0.0004780635547945167
+Azerbaijan,1995,0.0
+Belarus,1995,0.0
+Kazakhstan,1995,0.0
+Russian Federation,1995,0.0
+Turkmenistan,1995,0.0
+USSR,1995,0.0
+Uzbekistan,1995,0.0
+Other CIS,1995,0.0
+Total CIS,1995,0.0
+Iran,1995,0.0
+Iraq,1995,0.0
+Israel,1995,0.0
+Kuwait,1995,0.0
+Oman,1995,0.0
+Qatar,1995,0.0
+Saudi Arabia,1995,0.0
+United Arab Emirates,1995,0.0
+Other Middle East,1995,0.0
+Total Middle East,1995,0.0
+Algeria,1995,0.0
+Egypt,1995,0.0
+Morocco,1995,0.0
+South Africa,1995,0.0
+Eastern Africa,1995,0.0
+Middle Africa,1995,0.0
+Western Africa,1995,0.0
+Other Northern Africa,1995,0.0
+Other Southern Africa,1995,0.0
+Total Africa,1995,0.0
+Australia,1995,0.0002251451660413295
+Bangladesh,1995,0.0
+China,1995,7.451613055309281e-05
+China Hong Kong SAR,1995,0.0
+India,1995,1.075268846761901e-05
+Indonesia,1995,0.0
+Japan,1995,0.00042048387695103884
+Malaysia,1995,0.0
+New Zealand,1995,0.0
+Pakistan,1995,0.0
+Philippines,1995,0.0
+Singapore,1995,0.0
+South Korea,1995,2.1290323275025003e-05
+Sri Lanka,1995,0.0
+Taiwan,1995,0.0
+Thailand,1995,0.0
+Vietnam,1995,0.0
+Other Asia Pacific,1995,0.0
+Total Asia Pacific,1995,0.0007521881852881052
+Canada,1996,6.275042687775567e-05
+Mexico,1996,6.38709680060856e-05
+US,1996,0.0057626646012067795
+Total North America,1996,0.005889285996090621
+Argentina,1996,0.0
+Brazil,1996,0.0
+Chile,1996,0.0
+Colombia,1996,0.0
+Ecuador,1996,0.0
+Peru,1996,0.0
+Trinidad & Tobago,1996,0.0
+Venezuela,1996,0.0
+Central America,1996,0.0
+Other Caribbean,1996,0.0
+Other South America,1996,0.0
+Total S. & Cent. America,1996,0.0
+Austria,1996,1.0645161637512501e-05
+Belgium,1996,0.0
+Bulgaria,1996,0.0
+Croatia,1996,0.0
+Cyprus,1996,0.0
+Czech Republic,1996,0.0
+Denmark,1996,1.715053713269299e-06
+Estonia,1996,0.0
+Finland,1996,1.0453548384248279e-05
+France,1996,2.8212871256982908e-05
+Germany,1996,6.38709680060856e-05
+Greece,1996,0.0
+Hungary,1996,0.0
+Iceland,1996,0.0
+Ireland,1996,0.0
+Italy,1996,0.00014903226110618562
+Latvia,1996,0.0
+Lithuania,1996,0.0
+Luxembourg,1996,0.0
+Netherlands,1996,2.1290323275025003e-05
+North Macedonia,1996,0.0
+Norway,1996,0.0
+Poland,1996,0.0
+Portugal,1996,1.0645161637512501e-05
+Romania,1996,0.0
+Slovakia,1996,0.0
+Slovenia,1996,0.0
+Spain,1996,0.0001277419360121712
+Sweden,1996,1.0645161637512501e-05
+Switzerland,1996,7.451613055309281e-05
+Turkey,1996,0.0
+Ukraine,1996,0.0
+United Kingdom,1996,0.0
+Other Europe,1996,4.258064620898949e-07
+Total Europe,1996,0.0005091943836816881
+Azerbaijan,1996,0.0
+Belarus,1996,0.0
+Kazakhstan,1996,0.0
+Russian Federation,1996,0.0
+Turkmenistan,1996,0.0
+USSR,1996,0.0
+Uzbekistan,1996,0.0
+Other CIS,1996,0.0
+Total CIS,1996,0.0
+Iran,1996,0.0
+Iraq,1996,0.0
+Israel,1996,0.0
+Kuwait,1996,0.0
+Oman,1996,0.0
+Qatar,1996,0.0
+Saudi Arabia,1996,0.0
+United Arab Emirates,1996,0.0
+Other Middle East,1996,0.0
+Total Middle East,1996,0.0
+Algeria,1996,0.0
+Egypt,1996,0.0
+Morocco,1996,0.0
+South Africa,1996,0.0
+Eastern Africa,1996,0.0
+Middle Africa,1996,0.0
+Western Africa,1996,0.0
+Other Northern Africa,1996,0.0
+Other Southern Africa,1996,0.0
+Total Africa,1996,0.0
+Australia,1996,0.00027251613209955394
+Bangladesh,1996,0.0
+China,1996,9.58064483711496e-05
+China Hong Kong SAR,1996,0.0
+India,1996,6.451612716773525e-05
+Indonesia,1996,0.0
+Japan,1996,0.0005801612860523164
+Malaysia,1996,0.0
+New Zealand,1996,0.0
+Pakistan,1996,0.0
+Philippines,1996,0.0
+Singapore,1996,0.0
+South Korea,1996,3.19354840030428e-05
+Sri Lanka,1996,0.0
+Taiwan,1996,0.0
+Thailand,1996,0.0
+Vietnam,1996,0.0
+Other Asia Pacific,1996,0.0
+Total Asia Pacific,1996,0.001044935477693798
+Canada,1997,7.395585271297023e-05
+Mexico,1997,6.38709680060856e-05
+US,1997,0.005670631770044565
+Total North America,1997,0.005808458590763621
+Argentina,1997,0.0
+Brazil,1997,0.0
+Chile,1997,0.0
+Colombia,1997,0.0
+Ecuador,1997,0.0
+Peru,1997,0.0
+Trinidad & Tobago,1997,0.0
+Venezuela,1997,0.0
+Central America,1997,0.0
+Other Caribbean,1997,0.0
+Other South America,1997,0.0
+Total S. & Cent. America,1997,0.0
+Austria,1997,2.1290323275025003e-05
+Belgium,1997,0.0
+Bulgaria,1997,0.0
+Croatia,1997,0.0
+Cyprus,1997,0.0
+Czech Republic,1997,0.0
+Denmark,1997,3.400537707420881e-06
+Estonia,1997,0.0
+Finland,1997,1.285935468331445e-05
+France,1997,3.626593388617039e-05
+Germany,1997,0.000117096773465164
+Greece,1997,0.0
+Hungary,1997,0.0
+Iceland,1997,0.0
+Ireland,1997,0.0
+Italy,1997,0.00015967742365319282
+Latvia,1997,0.0
+Lithuania,1997,0.0
+Luxembourg,1997,0.0
+Netherlands,1997,2.1290323275025003e-05
+North Macedonia,1997,0.0
+Norway,1997,0.0
+Poland,1997,0.0
+Portugal,1997,1.0645161637512501e-05
+Romania,1997,0.0
+Slovakia,1997,0.0
+Slovenia,1997,0.0
+Spain,1997,0.0001383870985591784
+Sweden,1997,1.0645161637512501e-05
+Switzerland,1997,7.451613055309281e-05
+Turkey,1997,0.0
+Ukraine,1997,0.0
+United Kingdom,1997,0.0
+Other Europe,1997,6.706451358695631e-07
+Total Europe,1997,0.0006067448674684783
+Azerbaijan,1997,0.0
+Belarus,1997,0.0
+Kazakhstan,1997,0.0
+Russian Federation,1997,0.0
+Turkmenistan,1997,0.0
+USSR,1997,0.0
+Uzbekistan,1997,0.0
+Other CIS,1997,0.0
+Total CIS,1997,0.0
+Iran,1997,0.0
+Iraq,1997,0.0
+Israel,1997,0.0
+Kuwait,1997,0.0
+Oman,1997,0.0
+Qatar,1997,0.0
+Saudi Arabia,1997,0.0
+United Arab Emirates,1997,0.0
+Other Middle East,1997,0.0
+Total Middle East,1997,0.0
+Algeria,1997,0.0
+Egypt,1997,0.0
+Morocco,1997,0.0
+South Africa,1997,0.0
+Eastern Africa,1997,0.0
+Middle Africa,1997,0.0
+Western Africa,1997,0.0
+Other Northern Africa,1997,0.0
+Other Southern Africa,1997,0.0
+Total Africa,1997,0.0
+Australia,1997,0.0003262741956859827
+Bangladesh,1997,0.0
+China,1997,0.000117096773465164
+China Hong Kong SAR,1997,0.0
+India,1997,6.451612716773525e-05
+Indonesia,1997,0.0
+Japan,1997,0.001025159377604723
+Malaysia,1997,0.0
+New Zealand,1997,0.0
+Pakistan,1997,0.0
+Philippines,1997,0.0
+Singapore,1997,0.0
+South Korea,1997,3.19354840030428e-05
+Sri Lanka,1997,0.0
+Taiwan,1997,0.0
+Thailand,1997,0.0
+Vietnam,1997,0.0
+Other Asia Pacific,1997,2.129032239395201e-08
+Total Asia Pacific,1997,0.0015650032482490417
+Canada,1998,0.00010757215204648674
+Mexico,1998,7.451613055309281e-05
+US,1998,0.005585083272308111
+Total North America,1998,0.005767171554907691
+Argentina,1998,1.809677456776626e-07
+Brazil,1998,0.0
+Chile,1998,0.0
+Colombia,1998,0.0
+Ecuador,1998,0.0
+Peru,1998,0.0
+Trinidad & Tobago,1998,0.0
+Venezuela,1998,0.0
+Central America,1998,0.0
+Other Caribbean,1998,0.0
+Other South America,1998,0.0
+Total S. & Cent. America,1998,1.809677456776626e-07
+Austria,1998,2.1290323275025003e-05
+Belgium,1998,0.0
+Bulgaria,1998,0.0
+Croatia,1998,0.0
+Cyprus,1998,0.0
+Czech Republic,1998,0.0
+Denmark,1998,4.25806456405553e-06
+Estonia,1998,0.0
+Finland,1998,1.375354804622475e-05
+France,1998,4.352274117991328e-05
+Germany,1998,0.00015967742365319282
+Greece,1998,0.0
+Hungary,1998,0.0
+Iceland,1998,0.0
+Ireland,1998,0.0
+Italy,1998,0.00017032258620020002
+Latvia,1998,0.0
+Lithuania,1998,0.0
+Luxembourg,1998,0.0
+Netherlands,1998,3.7258065276546404e-05
+North Macedonia,1998,0.0
+Norway,1998,0.0
+Poland,1998,0.0
+Portugal,1998,8.51612912811106e-06
+Romania,1998,0.0
+Slovakia,1998,0.0
+Slovenia,1998,0.0
+Spain,1998,0.00015967742365319282
+Sweden,1998,1.0645161637512501e-05
+Switzerland,1998,8.516129310010001e-05
+Turkey,1998,0.0
+Ukraine,1998,0.0
+United Kingdom,1998,0.0
+Other Europe,1998,7.558064680779353e-07
+Total Europe,1998,0.0007148385661821521
+Azerbaijan,1998,0.0
+Belarus,1998,0.0
+Kazakhstan,1998,0.0
+Russian Federation,1998,0.0
+Turkmenistan,1998,0.0
+USSR,1998,0.0
+Uzbekistan,1998,0.0
+Other CIS,1998,0.0
+Total CIS,1998,0.0
+Iran,1998,0.0
+Iraq,1998,0.0
+Israel,1998,0.0
+Kuwait,1998,0.0
+Oman,1998,0.0
+Qatar,1998,0.0
+Saudi Arabia,1998,0.0
+United Arab Emirates,1998,0.0
+Other Middle East,1998,0.0
+Total Middle East,1998,0.0
+Algeria,1998,0.0
+Egypt,1998,0.0
+Morocco,1998,0.0
+South Africa,1998,0.0
+Eastern Africa,1998,0.0
+Middle Africa,1998,0.0
+Western Africa,1998,0.0
+Other Northern Africa,1998,0.0
+Other Southern Africa,1998,0.0
+Total Africa,1998,0.0
+Australia,1998,0.0003789677284657955
+Bangladesh,1998,0.0
+China,1998,0.00014903226110618562
+China Hong Kong SAR,1998,0.0
+India,1998,6.451612716773525e-05
+Indonesia,1998,0.0
+Japan,1998,0.0015248794807121158
+Malaysia,1998,0.0
+New Zealand,1998,0.0
+Pakistan,1998,0.0
+Philippines,1998,0.0
+Singapore,1998,0.0
+South Korea,1998,4.2580646550050005e-05
+Sri Lanka,1998,0.0
+Taiwan,1998,0.0
+Thailand,1998,0.0
+Vietnam,1998,0.0
+Other Asia Pacific,1998,1.2774194146913942e-07
+Total Asia Pacific,1998,0.0021601039859433513
+Canada,1999,0.00014118845865596086
+Mexico,1999,7.451613055309281e-05
+US,1999,0.005517834797501564
+Total North America,1999,0.005733539386710618
+Argentina,1999,2.7677418756866246e-07
+Brazil,1999,0.0
+Chile,1999,0.0
+Colombia,1999,0.0
+Ecuador,1999,0.0
+Peru,1999,0.0
+Trinidad & Tobago,1999,0.0
+Venezuela,1999,0.0
+Central America,1999,0.0
+Other Caribbean,1999,1.0752688694992685e-06
+Other South America,1999,0.0
+Total S. & Cent. America,1999,1.352043057067931e-06
+Austria,1999,2.1290323275025003e-05
+Belgium,1999,0.0
+Bulgaria,1999,0.0
+Croatia,1999,0.0
+Cyprus,1999,0.0
+Czech Republic,1999,0.0
+Denmark,1999,9.373656212119386e-06
+Estonia,1999,0.0
+Finland,1999,1.5084193364600651e-05
+France,1999,4.8408870497951284e-05
+Germany,1999,0.0002022580592893064
+Greece,1999,0.0
+Hungary,1999,0.0
+Iceland,1999,0.0
+Ireland,1999,0.0
+Italy,1999,0.00018096774874720722
+Latvia,1999,0.0
+Lithuania,1999,0.0
+Luxembourg,1999,0.0
+Netherlands,1999,5.610000152955763e-05
+North Macedonia,1999,0.0
+Norway,1999,0.0
+Poland,1999,0.0
+Portugal,1999,1.170967698271852e-05
+Romania,1999,0.0
+Slovakia,1999,0.0
+Slovenia,1999,0.0
+Spain,1999,0.00018096774874720722
+Sweden,1999,1.0645161637512501e-05
+Switzerland,1999,0.0001064516109181568
+Turkey,1999,0.0
+Ukraine,1999,0.0
+United Kingdom,1999,1.0645161637512501e-05
+Other Europe,1999,7.877419534452201e-07
+Total Europe,1999,0.0008546899547923203
+Azerbaijan,1999,0.0
+Belarus,1999,0.0
+Kazakhstan,1999,0.0
+Russian Federation,1999,0.0
+Turkmenistan,1999,0.0
+USSR,1999,0.0
+Uzbekistan,1999,0.0
+Other CIS,1999,0.0
+Total CIS,1999,0.0
+Iran,1999,0.0
+Iraq,1999,0.0
+Israel,1999,0.0
+Kuwait,1999,0.0
+Oman,1999,0.0
+Qatar,1999,0.0
+Saudi Arabia,1999,0.0
+United Arab Emirates,1999,0.0
+Other Middle East,1999,0.0
+Total Middle East,1999,0.0
+Algeria,1999,0.0
+Egypt,1999,0.0
+Morocco,1999,0.0
+South Africa,1999,0.0
+Eastern Africa,1999,0.0
+Middle Africa,1999,0.0
+Western Africa,1999,0.0
+Other Northern Africa,1999,0.0
+Other Southern Africa,1999,0.0
+Total Africa,1999,0.0
+Australia,1999,0.00043219354120083153
+Bangladesh,1999,0.0
+China,1999,0.00018096774874720722
+China Hong Kong SAR,1999,0.0
+India,1999,6.451612716773525e-05
+Indonesia,1999,0.0
+Japan,1999,0.002320911269634962
+Malaysia,1999,0.0
+New Zealand,1999,0.0
+Pakistan,1999,0.0
+Philippines,1999,0.0
+Singapore,1999,0.0
+South Korea,1999,4.866967719863169e-05
+Sri Lanka,1999,0.0
+Taiwan,1999,0.0
+Thailand,1999,0.0
+Vietnam,1999,0.0
+Other Asia Pacific,1999,9.580644899642721e-08
+Total Asia Pacific,1999,0.003047354170398364
+Canada,2000,0.00017480475071351975
+Mexico,2000,7.451613055309281e-05
+US,2000,0.005519650876522064
+Total North America,2000,0.005768971757788677
+Argentina,2000,3.8322579598570883e-07
+Brazil,2000,0.0
+Chile,2000,0.0
+Colombia,2000,1.9534016246325336e-05
+Ecuador,2000,0.0
+Peru,2000,0.0
+Trinidad & Tobago,2000,5.652580512105487e-06
+Venezuela,2000,0.0
+Central America,2000,0.0
+Other Caribbean,2000,1.3200000239521614e-06
+Other South America,2000,1.6754206910718494e-07
+Total S. & Cent. America,2000,2.705736464747588e-05
+Austria,2000,3.19354840030428e-05
+Belgium,2000,0.0
+Bulgaria,2000,0.0
+Croatia,2000,0.0
+Cyprus,2000,0.0
+Czech Republic,2000,0.0
+Denmark,2000,1.277419323741924e-05
+Estonia,2000,0.0
+Finland,2000,1.677677391853649e-05
+France,2000,5.5602336942683905e-05
+Germany,2000,0.0
+Greece,2000,0.0
+Hungary,2000,0.0
+Iceland,2000,0.0
+Ireland,2000,0.0
+Italy,2000,0.0001916128967422992
+Latvia,2000,0.0
+Lithuania,2000,0.0
+Luxembourg,2000,4.258064620898949e-07
+Netherlands,2000,8.207419159589335e-05
+North Macedonia,2000,0.0
+Norway,2000,5.641935422318056e-05
+Poland,2000,0.0
+Portugal,2000,1.490322574682068e-05
+Romania,2000,0.0
+Slovakia,2000,0.0
+Slovenia,2000,0.0
+Spain,2000,0.0001916128967422992
+Sweden,2000,1.0645161637512501e-05
+Switzerland,2000,0.000117096773465164
+Turkey,2000,0.0
+Ukraine,2000,0.0
+United Kingdom,2000,1.0645161637512501e-05
+Other Europe,2000,7.025806212368479e-07
+Total Europe,2000,0.0007932268369756912
+Azerbaijan,2000,0.0
+Belarus,2000,0.0
+Kazakhstan,2000,0.0
+Russian Federation,2000,0.0
+Turkmenistan,2000,0.0
+USSR,2000,0.0
+Uzbekistan,2000,0.0
+Other CIS,2000,0.0
+Total CIS,2000,0.0
+Iran,2000,0.0
+Iraq,2000,0.0
+Israel,2000,0.0
+Kuwait,2000,0.0
+Oman,2000,0.0
+Qatar,2000,0.0
+Saudi Arabia,2000,0.0
+United Arab Emirates,2000,0.0
+Other Middle East,2000,0.0
+Total Middle East,2000,0.0
+Algeria,2000,0.0
+Egypt,2000,2.129032282027765e-06
+Morocco,2000,0.0
+South Africa,2000,9.899999713525176e-05
+Eastern Africa,2000,7.451613015518888e-08
+Middle Africa,2000,1.5222581168927718e-06
+Western Africa,2000,2.598483888505143e-05
+Other Northern Africa,2000,0.0
+Other Southern Africa,2000,0.0
+Total Africa,2000,0.00012871064254937892
+Australia,2000,0.0004976612981408834
+Bangladesh,2000,1.0645161552247373e-07
+China,2000,0.000234193546930328
+China Hong Kong SAR,2000,0.0
+India,2000,7.526881381636485e-05
+Indonesia,2000,0.0
+Japan,2000,0.0036625924985855818
+Malaysia,2000,0.0
+New Zealand,2000,0.0
+Pakistan,2000,0.0
+Philippines,2000,0.0
+Singapore,2000,0.0
+South Korea,2000,5.624903133139014e-05
+Sri Lanka,2000,4.598709892889019e-06
+Taiwan,2000,1.2774193010045565e-06
+Thailand,2000,0.0
+Vietnam,2000,0.0
+Other Asia Pacific,2000,1.4062258134828198e-05
+Total Asia Pacific,2000,0.0045460100277487925
+Canada,2001,0.00020706767099909484
+Mexico,2001,8.460829849354923e-05
+US,2001,0.006074357777833939
+Total North America,2001,0.006366033747326583
+Argentina,2001,4.547695766632387e-07
+Brazil,2001,0.0
+Chile,2001,0.0
+Colombia,2001,2.8224798370501958e-05
+Ecuador,2001,0.0
+Peru,2001,0.0
+Trinidad & Tobago,2001,1.0988502253894694e-05
+Venezuela,2001,0.0
+Central America,2001,0.0
+Other Caribbean,2001,3.4266358852619305e-06
+Other South America,2001,1.6645412870275322e-07
+Total S. & Cent. America,2001,4.3261160215024574e-05
+Austria,2001,5.288018292048946e-05
+Belgium,2001,0.0
+Bulgaria,2001,0.0
+Croatia,2001,0.0
+Cyprus,2001,0.0
+Czech Republic,2001,0.0
+Denmark,2001,1.2691244592133444e-05
+Estonia,2001,0.0
+Finland,2001,1.8137903680326417e-05
+France,2001,6.515367567772046e-05
+Germany,2001,0.0010576036293059587
+Greece,2001,0.0
+Hungary,2001,0.0
+Iceland,2001,0.0
+Ireland,2001,0.0
+Italy,2001,0.0002009447052842006
+Latvia,2001,0.0
+Lithuania,2001,0.0
+Luxembourg,2001,4.864976972385193e-07
+Netherlands,2001,0.00013812303950544447
+North Macedonia,2001,0.0
+Norway,2001,5.60529952053912e-05
+Poland,2001,0.0
+Portugal,2001,1.6921658243518323e-05
+Romania,2001,0.0
+Slovakia,2001,0.0
+Slovenia,2001,0.0
+Spain,2001,0.0002538248954806477
+Sweden,2001,2.1152074623387307e-05
+Switzerland,2001,0.00013748847413808107
+Turkey,2001,0.0
+Ukraine,2001,0.0
+United Kingdom,2001,2.1152074623387307e-05
+Other Europe,2001,2.168087519294204e-06
+Total Europe,2001,0.0020547811384972192
+Azerbaijan,2001,0.0
+Belarus,2001,0.0
+Kazakhstan,2001,0.0
+Russian Federation,2001,0.0
+Turkmenistan,2001,0.0
+USSR,2001,0.0
+Uzbekistan,2001,0.0
+Other CIS,2001,0.0
+Total CIS,2001,0.0
+Iran,2001,0.0
+Iraq,2001,0.0
+Israel,2001,0.0
+Kuwait,2001,0.0
+Oman,2001,0.0
+Qatar,2001,0.0
+Saudi Arabia,2001,0.0
+United Arab Emirates,2001,0.0
+Other Middle East,2001,0.0
+Total Middle East,2001,0.0
+Algeria,2001,0.0
+Egypt,2001,9.518433216726407e-06
+Morocco,2001,0.0
+South Africa,2001,0.00011422119860071689
+Eastern Africa,2001,2.020022932924803e-06
+Middle Africa,2001,3.0882027886036667e-06
+Western Africa,2001,3.212999948232209e-05
+Other Northern Africa,2001,0.0
+Other Southern Africa,2001,0.0
+Total Africa,2001,0.00016097785702129386
+Australia,2001,0.0005726923700422049
+Bangladesh,2001,1.480645153151272e-07
+China,2001,0.00032785715302452445
+China Hong Kong SAR,2001,0.0
+India,2001,0.00011751151760108769
+Indonesia,2001,0.0
+Japan,2001,0.005285260267555714
+Malaysia,2001,0.0
+New Zealand,2001,0.0
+Pakistan,2001,0.0
+Philippines,2001,0.0
+Singapore,2001,0.0
+South Korea,2001,6.540221511386335e-05
+Sri Lanka,2001,9.551176844979636e-06
+Taiwan,2001,2.7920737011299934e-06
+Thailand,2001,0.0
+Vietnam,2001,0.0
+Other Asia Pacific,2001,3.4752857342112975e-05
+Total Asia Pacific,2001,0.006415967695740932
+Canada,2002,0.00023891429009381682
+Mexico,2002,8.406243432546034e-05
+US,2002,0.006321469787508249
+Total North America,2002,0.0066444465119275264
+Argentina,2002,4.938668212162156e-07
+Brazil,2002,0.0
+Chile,2002,0.0
+Colombia,2002,4.887442628387362e-05
+Ecuador,2002,0.0
+Peru,2002,0.0
+Trinidad & Tobago,2002,1.4385183931153733e-05
+Venezuela,2002,0.0
+Central America,2002,0.0
+Other Caribbean,2002,3.572653326955333e-06
+Other South America,2002,1.6538022862278012e-07
+Total S. & Cent. America,2002,6.749151059182168e-05
+Austria,2002,9.457024134462699e-05
+Belgium,2002,0.0
+Bulgaria,2002,0.0
+Croatia,2002,0.0
+Cyprus,2002,0.0
+Czech Republic,2002,0.0
+Denmark,2002,1.3455827684083488e-05
+Estonia,2002,0.0
+Finland,2002,1.959705514309462e-05
+France,2002,7.464166264981031e-05
+Germany,2002,0.0021015608217567205
+Greece,2002,0.0
+Hungary,2002,0.0
+Iceland,2002,0.0
+Ireland,2002,0.0
+Italy,2002,0.0002206638891948387
+Latvia,2002,0.0
+Lithuania,2002,0.0
+Luxembourg,2002,6.199604740686482e-07
+Netherlands,2002,0.00017905299318954349
+North Macedonia,2002,0.0
+Norway,2002,5.569136192207225e-05
+Poland,2002,0.0
+Portugal,2002,1.89140482689254e-05
+Romania,2002,0.0
+Slovakia,2002,0.0
+Slovenia,2002,0.0
+Spain,2002,0.0003152341232635081
+Sweden,2002,2.1015608581365086e-05
+Switzerland,2002,0.00015761706163175404
+Turkey,2002,0.0
+Ukraine,2002,0.0
+United Kingdom,2002,3.152341378154233e-05
+Other Europe,2002,3.6251925052965817e-06
+Total Europe,2002,0.0033077832613912506
+Azerbaijan,2002,0.0
+Belarus,2002,0.0
+Kazakhstan,2002,0.0
+Russian Federation,2002,0.0
+Turkmenistan,2002,0.0
+USSR,2002,0.0
+Uzbekistan,2002,0.0
+Other CIS,2002,0.0
+Total CIS,2002,0.0
+Iran,2002,0.0
+Iraq,2002,0.0
+Israel,2002,0.0
+Kuwait,2002,0.0
+Oman,2002,0.0
+Qatar,2002,0.0
+Saudi Arabia,2002,0.0
+United Arab Emirates,2002,0.0
+Other Middle East,2002,0.0
+Total Middle East,2002,0.0
+Algeria,2002,0.0
+Egypt,2002,1.0507804290682543e-05
+Morocco,2002,1.0613944141368847e-06
+South Africa,2002,0.0001302967721130699
+Eastern Africa,2002,3.9404266658493725e-06
+Middle Africa,2002,3.0682788292324403e-06
+Western Africa,2002,2.6760253945212753e-05
+Other Northern Africa,2002,0.0
+Other Southern Africa,2002,0.0
+Total Africa,2002,0.00017563493025818389
+Australia,2002,0.000612605013884604
+Bangladesh,2002,6.935150622666697e-07
+China,2002,0.0005043746205046773
+China Hong Kong SAR,2002,0.0
+India,2002,0.00013798127474728972
+Indonesia,2002,0.0
+Japan,2002,0.007298931013792753
+Malaysia,2002,0.0
+New Zealand,2002,0.0
+Pakistan,2002,0.0
+Philippines,2002,0.0
+Singapore,2002,0.0
+South Korea,2002,7.401697075692937e-05
+Sri Lanka,2002,1.5773392078699544e-05
+Taiwan,2002,3.6567159895639634e-06
+Thailand,2002,0.0
+Vietnam,2002,0.0
+Other Asia Pacific,2002,4.198918608722124e-05
+Total Asia Pacific,2002,0.008690021702904005
+Canada,2003,0.00023793228319846094
+Mexico,2003,8.35235696285963e-05
+US,2003,0.006375503726303577
+Total North America,2003,0.006696959579130635
+Argentina,2003,6.78629021422239e-07
+Brazil,2003,0.0
+Chile,2003,0.0
+Colombia,2003,6.687106360914186e-05
+Ecuador,2003,0.0
+Peru,2003,0.0
+Trinidad & Tobago,2003,1.9857729057548568e-05
+Venezuela,2003,0.0
+Central America,2003,0.0
+Other Caribbean,2003,3.5497519093041774e-06
+Other South America,2003,2.5538332693031407e-07
+Total S. & Cent. America,2003,9.121255692434715e-05
+Austria,2003,0.00015660669305361807
+Belgium,2003,0.0
+Bulgaria,2003,0.0
+Croatia,2003,0.0
+Cyprus,2003,0.0
+Czech Republic,2003,0.0
+Denmark,2003,1.5863679436733946e-05
+Estonia,2003,0.0
+Finland,2003,2.1893616576562636e-05
+France,2003,8.109408372547477e-05
+Germany,2003,0.0032678598072379827
+Greece,2003,0.0
+Hungary,2003,0.0
+Iceland,2003,0.0
+Ireland,2003,0.0
+Italy,2003,0.0002505707088857889
+Latvia,2003,0.0
+Lithuania,2003,0.0
+Luxembourg,2003,1.4606184777221642e-05
+Netherlands,2003,0.00032093931804411113
+North Macedonia,2003,0.0
+Norway,2003,6.473076791735366e-05
+Poland,2003,0.0
+Portugal,2003,2.714516085688956e-05
+Romania,2003,0.0
+Slovakia,2003,0.0
+Slovenia,2003,0.0
+Spain,2003,0.0004280583234503865
+Sweden,2003,2.0880892407149076e-05
+Switzerland,2003,0.00018792804621625692
+Turkey,2003,0.0
+Ukraine,2003,0.0
+United Kingdom,2003,3.1321338610723615e-05
+Other Europe,2003,5.147140200278955e-06
+Total Europe,2003,0.004894645761396532
+Azerbaijan,2003,0.0
+Belarus,2003,0.0
+Kazakhstan,2003,0.0
+Russian Federation,2003,0.0
+Turkmenistan,2003,0.0
+USSR,2003,0.0
+Uzbekistan,2003,0.0
+Other CIS,2003,0.0
+Total CIS,2003,0.0
+Iran,2003,0.0
+Iraq,2003,0.0
+Israel,2003,0.0
+Kuwait,2003,0.0
+Oman,2003,0.0
+Qatar,2003,0.0
+Saudi Arabia,2003,0.0
+United Arab Emirates,2003,0.0
+Other Middle East,2003,0.0
+Total Middle East,2003,0.0
+Algeria,2003,0.0
+Egypt,2003,1.0440446203574538e-05
+Morocco,2003,1.0545905979597592e-06
+South Africa,2003,0.00014512220514006913
+Eastern Africa,2003,4.082214701384146e-06
+Middle Africa,2003,2.5996712338383077e-06
+Western Africa,2003,3.973932894041354e-05
+Other Northern Africa,2003,3.320061978229205e-06
+Other Southern Africa,2003,0.0
+Total Africa,2003,0.00020635851879546863
+Australia,2003,0.0006598362233489752
+Bangladesh,2003,8.874380000634119e-06
+China,2003,0.0006681885570287704
+China Hong Kong SAR,2003,0.0
+India,2003,0.00016873449203558266
+Indonesia,2003,0.0
+Japan,2003,0.009959716349840164
+Malaysia,2003,0.0
+New Zealand,2003,0.0
+Pakistan,2003,0.0
+Philippines,2003,0.0
+Singapore,2003,0.0
+South Korea,2003,8.093434007605538e-05
+Sri Lanka,2003,2.509875048417598e-05
+Taiwan,2003,4.813045961782336e-06
+Thailand,2003,0.0
+Vietnam,2003,0.0
+Other Asia Pacific,2003,5.681690998571298e-05
+Total Asia Pacific,2003,0.011633013048761853
+Canada,2004,0.00014796524192206562
+Mexico,2004,9.336552466265857e-05
+US,2004,0.007242389023303986
+Total North America,2004,0.00748371978988871
+Argentina,2004,7.261762675625505e-07
+Brazil,2004,0.0
+Chile,2004,0.0
+Colombia,2004,8.249078382505104e-05
+Ecuador,2004,0.0
+Peru,2004,0.0
+Trinidad & Tobago,2004,2.6754409191198647e-05
+Venezuela,2004,0.0
+Central America,2004,0.0
+Other Caribbean,2004,4.720145739156578e-06
+Other South America,2004,2.5375666723448376e-07
+Total S. & Cent. America,2004,0.0001149452716902033
+Austria,2004,0.00018673104932531714
+Belgium,2004,1.0373946679465007e-05
+Bulgaria,2004,0.0
+Croatia,2004,0.0
+Cyprus,2004,4.149578671786003e-06
+Czech Republic,2004,1.0373946679465007e-06
+Denmark,2004,1.9076534954365343e-05
+Estonia,2004,0.0
+Finland,2004,2.449288876960054e-05
+France,2004,8.763893856666982e-05
+Germany,2004,0.005778288468718529
+Greece,2004,8.039808562898543e-06
+Hungary,2004,0.0
+Iceland,2004,0.0
+Ireland,2004,0.0
+Italy,2004,0.0003008444618899375
+Latvia,2004,0.0
+Lithuania,2004,0.0
+Luxembourg,2004,9.542993939248845e-05
+Netherlands,2004,0.0003437926061451435
+North Macedonia,2004,0.0
+Norway,2004,6.431846850318834e-05
+Poland,2004,0.0
+Portugal,2004,3.008444582519587e-05
+Romania,2004,0.0
+Slovakia,2004,0.0
+Slovenia,2004,0.0
+Spain,2004,0.0005809410358779132
+Sweden,2004,2.0747893358930014e-05
+Switzerland,2004,0.00018673104932531714
+Turkey,2004,0.0
+Ukraine,2004,0.0
+United Kingdom,2004,4.149578671786003e-05
+Other Europe,2004,6.473342978097207e-06
+Total Europe,2004,0.007790687638930649
+Azerbaijan,2004,0.0
+Belarus,2004,0.0
+Kazakhstan,2004,0.0
+Russian Federation,2004,0.0
+Turkmenistan,2004,0.0
+USSR,2004,0.0
+Uzbekistan,2004,0.0
+Other CIS,2004,0.0
+Total CIS,2004,0.0
+Iran,2004,0.0
+Iraq,2004,0.0
+Israel,2004,0.0
+Kuwait,2004,0.0
+Oman,2004,0.0
+Qatar,2004,0.0
+Saudi Arabia,2004,0.0
+United Arab Emirates,2004,0.0
+Other Middle East,2004,0.0
+Total Middle East,2004,0.0
+Algeria,2004,0.0
+Egypt,2004,1.0373946679465007e-05
+Morocco,2004,1.0478734111529775e-06
+South Africa,2004,0.00016079617489594966
+Eastern Africa,2004,7.718217034380359e-06
+Middle Africa,2004,1.0373946679465007e-06
+Western Africa,2004,5.41921482195562e-05
+Other Northern Africa,2004,1.154620258603245e-05
+Other Southern Africa,2004,1.0373946679465007e-06
+Total Africa,2004,0.00024774935216242966
+Australia,2004,0.0007567794527858496
+Bangladesh,2004,1.985573544516228e-05
+China,2004,0.0007884199731051922
+China Hong Kong SAR,2004,0.0
+India,2004,0.00018861722492147237
+Indonesia,2004,0.0
+Japan,2004,0.013191740959882736
+Malaysia,2004,0.0
+New Zealand,2004,0.0
+Pakistan,2004,0.0
+Philippines,2004,0.0
+Singapore,2004,0.0
+South Korea,2004,0.000102411606349051
+Sri Lanka,2004,3.671414378914051e-05
+Taiwan,2004,6.058385224605445e-06
+Thailand,2004,0.0
+Vietnam,2004,0.0
+Other Asia Pacific,2004,6.980628844388548e-05
+Total Asia Pacific,2004,0.015160403769947095
+Canada,2005,0.0001752409152686596
+Mexico,2005,9.277460048906505e-05
+US,2005,0.007719884160906076
+Total North America,2005,0.007987899676663801
+Argentina,2005,8.349714448740997e-07
+Brazil,2005,0.0
+Chile,2005,0.0
+Colombia,2005,9.825087909121066e-05
+Ecuador,2005,1.2771897672791965e-07
+Peru,2005,0.0
+Trinidad & Tobago,2005,2.827563730534166e-05
+Venezuela,2005,0.0
+Central America,2005,5.611703727481654e-06
+Other Caribbean,2005,5.5784053529350786e-05
+Other South America,2005,2.670176968422311e-07
+Total S. & Cent. America,2005,0.00018915198177182901
+Austria,2005,0.00021666348038706928
+Belgium,2005,1.0308289347449318e-05
+Bulgaria,2005,0.0
+Croatia,2005,0.0
+Cyprus,2005,5.834491730638547e-06
+Czech Republic,2005,7.009636533439334e-07
+Denmark,2005,2.2277357857092284e-05
+Estonia,2005,0.0
+Finland,2005,2.7121108360006474e-05
+France,2005,0.0001082448725355789
+Germany,2005,0.013483242131769657
+Greece,2005,9.823799700825475e-06
+Hungary,2005,0.0
+Iceland,2005,0.0
+Ireland,2005,0.0
+Italy,2005,0.00031955697340890765
+Latvia,2005,0.0
+Lithuania,2005,0.0
+Luxembourg,2005,0.00018243609520141035
+Netherlands,2005,0.0003525331849232316
+North Macedonia,2005,0.0
+Norway,2005,6.391139322659001e-05
+Poland,2005,0.0
+Portugal,2005,3.917150024790317e-05
+Romania,2005,0.0
+Slovakia,2005,0.0
+Slovenia,2005,0.0
+Spain,2005,0.0004226398596074432
+Sweden,2005,2.0616578694898635e-05
+Switzerland,2005,0.00021647407265845686
+Turkey,2005,0.0
+Ukraine,2005,0.0
+United Kingdom,2005,8.246631477959454e-05
+Other Europe,2005,7.566284125459788e-06
+Total Europe,2005,0.015591588752215557
+Azerbaijan,2005,0.0
+Belarus,2005,0.0
+Kazakhstan,2005,0.0
+Russian Federation,2005,0.0
+Turkmenistan,2005,0.0
+USSR,2005,0.0
+Uzbekistan,2005,0.0
+Other CIS,2005,0.0
+Total CIS,2005,0.0
+Iran,2005,0.0
+Iraq,2005,0.0
+Israel,2005,0.0
+Kuwait,2005,0.0
+Oman,2005,0.0
+Qatar,2005,0.0
+Saudi Arabia,2005,0.0
+United Arab Emirates,2005,0.0
+Other Middle East,2005,0.0
+Total Middle East,2005,0.0
+Algeria,2005,0.0
+Egypt,2005,1.0308289347449318e-05
+Morocco,2005,1.0412413757876493e-06
+South Africa,2005,0.0001752409152686596
+Eastern Africa,2005,1.3194610783529015e-05
+Middle Africa,2005,2.494605951142148e-06
+Western Africa,2005,6.748273331957932e-05
+Other Northern Africa,2005,1.966821582755074e-05
+Other Southern Africa,2005,2.0616578240151284e-06
+Total Africa,2005,0.0002914922696977129
+Australia,2005,0.0008664117194712162
+Bangladesh,2005,3.5068798752035946e-05
+China,2005,0.0008658962906338274
+China Hong Kong SAR,2005,0.0
+India,2005,0.00018742344400379807
+Indonesia,2005,0.0
+Japan,2005,0.016803422942757607
+Malaysia,2005,0.0
+New Zealand,2005,0.0
+Pakistan,2005,0.0
+Philippines,2005,1.5637675460311584e-05
+Singapore,2005,0.0
+South Korea,2005,0.00014842905511613935
+Sri Lanka,2005,4.757621718454175e-05
+Taiwan,2005,9.895957191474736e-06
+Thailand,2005,0.0
+Vietnam,2005,0.0
+Other Asia Pacific,2005,8.255908837284665e-05
+Total Asia Pacific,2005,0.019062321188943798
+Canada,2006,0.00021511259546969086
+Mexico,2006,0.00010243456927128136
+US,2006,0.008445034734904766
+Total North America,2006,0.008762581899645738
+Argentina,2006,9.219111234415323e-07
+Brazil,2006,0.0
+Chile,2006,0.0
+Colombia,2006,0.0
+Ecuador,2006,1.523714274753729e-07
+Peru,2006,0.0
+Trinidad & Tobago,2006,3.165228190482594e-05
+Venezuela,2006,0.0
+Central America,2006,6.634325927734608e-06
+Other Caribbean,2006,4.8703253810344904e-05
+Other South America,2006,3.740883869340905e-07
+Total S. & Cent. America,2006,8.843823258075645e-05
+Austria,2006,0.00022931899002287537
+Belgium,2006,2.0486913854256272e-05
+Bulgaria,2006,0.0
+Croatia,2006,0.0
+Cyprus,2006,1.0263944204780273e-05
+Czech Republic,2006,1.7413876776117831e-06
+Denmark,2006,2.2677875676890835e-05
+Estonia,2006,0.0
+Finland,2006,3.461263986537233e-05
+France,2006,0.00012195911403978243
+Germany,2006,0.023201430216431618
+Greece,2006,1.4197431482898537e-05
+Hungary,2006,0.0
+Iceland,2006,0.0
+Ireland,2006,0.0
+Italy,2006,0.0003585210070014
+Latvia,2006,0.0
+Lithuania,2006,0.0
+Luxembourg,2006,0.00021628035756293684
+Netherlands,2006,0.00036080527934245765
+North Macedonia,2006,0.0
+Norway,2006,7.272854418260977e-05
+Poland,2006,0.0
+Portugal,2006,5.121728463564068e-05
+Romania,2006,0.0
+Slovakia,2006,0.0
+Slovenia,2006,0.0
+Spain,2006,0.0012189714470878243
+Sweden,2006,2.0486913854256272e-05
+Switzerland,2006,0.00024584296625107527
+Turkey,2006,0.0
+Ukraine,2006,0.0
+United Kingdom,2006,0.0001126780261984095
+Other Europe,2006,7.91819229561952e-06
+Total Europe,2006,0.026322138531668315
+Azerbaijan,2006,0.0
+Belarus,2006,0.0
+Kazakhstan,2006,0.0
+Russian Federation,2006,0.0
+Turkmenistan,2006,0.0
+USSR,2006,0.0
+Uzbekistan,2006,0.0
+Other CIS,2006,0.0
+Total CIS,2006,0.0
+Iran,2006,1.0243456927128136e-06
+Iraq,2006,0.0
+Israel,2006,0.0
+Kuwait,2006,0.0
+Oman,2006,0.0
+Qatar,2006,0.0
+Saudi Arabia,2006,0.0
+United Arab Emirates,2006,0.0
+Other Middle East,2006,0.0
+Total Middle East,2006,1.0243456927128136e-06
+Algeria,2006,0.0
+Egypt,2006,1.0243456927128136e-05
+Morocco,2006,1.034692672874371e-06
+South Africa,2006,0.00019052829884458333
+Eastern Africa,2006,5.1034559193752216e-05
+Middle Africa,2006,2.4789165991023765e-06
+Western Africa,2006,8.694683838683659e-05
+Other Northern Africa,2006,2.768806371022947e-05
+Other Southern Africa,2006,2.0486913854256272e-06
+Total Africa,2006,0.0003720035177199321
+Australia,2006,0.0009987370576709509
+Bangladesh,2006,5.565270112128928e-05
+China,2006,0.0009731284226290882
+China Hong Kong SAR,2006,0.0
+India,2006,7.375288987532258e-05
+Indonesia,2006,0.0
+Japan,2006,0.02044215053319931
+Malaysia,2006,0.0
+New Zealand,2006,0.0
+Pakistan,2006,0.0
+Philippines,2006,1.4094996913627256e-05
+Singapore,2006,0.0
+South Korea,2006,0.00031777253025211394
+Sri Lanka,2006,5.517925092135556e-05
+Taiwan,2006,1.4924717106623575e-05
+Thailand,2006,0.0003736813087016344
+Vietnam,2006,0.0
+Other Asia Pacific,2006,9.920788071937636e-05
+Total Asia Pacific,2006,0.023418282289110692
+Canada,2007,0.0002646653156261891
+Mexico,2007,9.161492198472843e-05
+US,2007,0.011150660924613476
+Total North America,2007,0.011506941162224393
+Argentina,2007,1.1085405731137143e-06
+Brazil,2007,0.0
+Chile,2007,0.0
+Colombia,2007,0.0
+Ecuador,2007,1.8487891395579936e-07
+Peru,2007,0.0
+Trinidad & Tobago,2007,3.343944626976736e-05
+Venezuela,2007,0.0
+Central America,2007,6.69447786094679e-06
+Other Caribbean,2007,7.280753982286114e-05
+Other South America,2007,3.797609338107577e-07
+Total S. & Cent. America,2007,0.00011461464437445557
+Austria,2007,0.0002467329613864422
+Belgium,2007,6.107661465648562e-05
+Bulgaria,2007,6.107661079113313e-07
+Croatia,2007,0.0
+Cyprus,2007,1.76409612322459e-05
+Czech Republic,2007,1.7854730685940012e-05
+Denmark,2007,2.53920370596461e-05
+Estonia,2007,0.0
+Finland,2007,3.879382711602375e-05
+France,2007,0.00018322984396945685
+Germany,2007,0.03193289041519165
+Greece,2007,1.4454798474616837e-05
+Hungary,2007,0.0
+Iceland,2007,0.0
+Ireland,2007,0.0
+Italy,2007,0.0003969979879911989
+Latvia,2007,0.0
+Lithuania,2007,0.0
+Luxembourg,2007,0.00021276038023643196
+Netherlands,2007,0.000363528000889346
+North Macedonia,2007,0.0
+Norway,2007,7.227399328257889e-05
+Poland,2007,0.0
+Portugal,2007,0.00024430645862594247
+Romania,2007,0.0
+Slovakia,2007,0.0
+Slovenia,2007,0.0
+Spain,2007,0.005171153228729963
+Sweden,2007,3.053830732824281e-05
+Switzerland,2007,0.0002952036156784743
+Turkey,2007,0.0
+Ukraine,2007,0.0
+United Kingdom,2007,0.0001425121008651331
+Other Europe,2007,9.894411277855397e-06
+Total Europe,2007,0.039477845440785586
+Azerbaijan,2007,0.0
+Belarus,2007,0.0
+Kazakhstan,2007,0.0
+Russian Federation,2007,0.0
+Turkmenistan,2007,0.0
+USSR,2007,0.0
+Uzbekistan,2007,0.0
+Other CIS,2007,0.0
+Total CIS,2007,0.0
+Iran,2007,1.0179435321333585e-06
+Iraq,2007,0.0
+Israel,2007,0.0
+Kuwait,2007,0.0
+Oman,2007,0.0
+Qatar,2007,0.0
+Saudi Arabia,2007,0.0
+United Arab Emirates,2007,0.0
+Other Middle East,2007,0.0
+Total Middle East,2007,1.0179435321333585e-06
+Algeria,2007,0.0
+Egypt,2007,1.2215322385600302e-05
+Morocco,2007,1.0282258244842524e-06
+South Africa,2007,0.00020460665109567344
+Eastern Africa,2007,9.750604109548533e-05
+Middle Africa,2007,4.499310421124392e-06
+Western Africa,2007,0.0001100098851054554
+Other Northern Africa,2007,3.560766708687879e-05
+Other Southern Africa,2007,3.0538305964000756e-06
+Total Africa,2007,0.000468526933611102
+Australia,2007,0.0011579107958823442
+Bangladesh,2007,9.209335257764906e-05
+China,2007,0.001160455634817481
+China Hong Kong SAR,2007,0.0
+India,2007,0.0006005867035128176
+Indonesia,2007,0.0
+Japan,2007,0.02353961393237114
+Malaysia,2007,0.0
+New Zealand,2007,3.4670087188715115e-05
+Pakistan,2007,2.0562458757922286e-06
+Philippines,2007,1.3324881365406327e-05
+Singapore,2007,0.0
+South Korea,2007,0.0007255799719132483
+Sri Lanka,2007,6.08369882684201e-05
+Taiwan,2007,2.219116868218407e-05
+Thailand,2007,0.0003945549251511693
+Vietnam,2007,0.0
+Other Asia Pacific,2007,0.00010315840059949011
+Total Asia Pacific,2007,0.027907033088205857
+Canada,2008,0.0003540673351380974
+Mexico,2008,0.0001922079682117328
+US,2008,0.01652040332555771
+Total North America,2008,0.01706667862890754
+Argentina,2008,1.4536992694047512e-06
+Brazil,2008,0.0
+Chile,2008,0.0
+Colombia,2008,0.0
+Ecuador,2008,2.699712808862387e-07
+Peru,2008,0.0
+Trinidad & Tobago,2008,3.575068330974318e-05
+Venezuela,2008,0.0
+Central America,2008,6.683678748231614e-06
+Other Caribbean,2008,0.00010976516318805807
+Other South America,2008,9.9724708402249e-07
+Total S. & Cent. America,2008,0.00015492044288034634
+Austria,2008,0.0003046993224415928
+Belgium,2008,0.0004248807963449508
+Bulgaria,2008,1.6894069858608418e-06
+Croatia,2008,0.0
+Cyprus,2008,3.0348626751219854e-05
+Czech Republic,2008,0.00013087339175399393
+Denmark,2008,2.6526948204264045e-05
+Estonia,2008,0.0
+Finland,2008,3.9898328395793214e-05
+France,2008,0.0004248807963449508
+Germany,2008,0.04560387134552002
+Greece,2008,5.296847302815877e-05
+Hungary,2008,1.0116209523403086e-05
+Iceland,2008,0.0
+Ireland,2008,0.0
+Italy,2008,0.0019524283707141876
+Latvia,2008,0.0
+Lithuania,2008,0.0
+Luxembourg,2008,0.00020263779151719064
+Netherlands,2008,0.00039340925286524
+North Macedonia,2008,0.0
+Norway,2008,7.485994865419343e-05
+Poland,2008,0.0
+Portugal,2008,0.00041476456681266427
+Romania,2008,0.0
+Slovakia,2008,0.0
+Slovenia,2008,1.0116209523403086e-05
+Spain,2008,0.026079587638378143
+Sweden,2008,4.046483809361234e-05
+Switzerland,2008,0.00037429973599500954
+Turkey,2008,0.0
+Ukraine,2008,0.0
+United Kingdom,2008,0.00017197555280290544
+Other Europe,2008,1.185619748866884e-05
+Total Europe,2008,0.07677715374813943
+Azerbaijan,2008,0.0
+Belarus,2008,0.0
+Kazakhstan,2008,0.0
+Russian Federation,2008,0.0
+Turkmenistan,2008,0.0
+USSR,2008,0.0
+Uzbekistan,2008,0.0
+Other CIS,2008,0.0
+Total CIS,2008,0.0
+Iran,2008,2.023241904680617e-06
+Iraq,2008,0.0
+Israel,2008,0.0
+Kuwait,2008,0.0
+Oman,2008,0.0
+Qatar,2008,0.0
+Saudi Arabia,2008,6.160771590657532e-06
+United Arab Emirates,2008,0.0
+Other Middle East,2008,2.731376571318833e-05
+Total Middle East,2008,3.549777920852648e-05
+Algeria,2008,0.0
+Egypt,2008,1.5174313375609927e-05
+Morocco,2008,1.0218393526884029e-06
+South Africa,2008,0.00021952173847239465
+Eastern Africa,2008,0.00018715161774274236
+Middle Africa,2008,4.47136460479669e-06
+Western Africa,2008,0.00012590419186153667
+Other Northern Africa,2008,4.342888496466912e-05
+Other Southern Africa,2008,5.867401250725379e-05
+Total Africa,2008,0.0006553479628816916
+Australia,2008,0.001408176263794303
+Bangladesh,2008,0.00015390801127068698
+China,2008,0.0015376637456938624
+China Hong Kong SAR,2008,0.0
+India,2008,0.0006373211508616805
+Indonesia,2008,1.0116209523403086e-06
+Japan,2008,0.026241155341267586
+Malaysia,2008,0.0
+New Zealand,2008,3.495773489703424e-05
+Pakistan,2008,1.661081478232518e-05
+Philippines,2008,1.3191536709200591e-05
+Singapore,2008,3.0045141556911403e-06
+South Korea,2008,0.0028761900030076504
+Sri Lanka,2008,6.449216743931174e-05
+Taiwan,2008,4.525125041254796e-05
+Thailand,2008,0.0003933182160835713
+Vietnam,2008,0.0
+Other Asia Pacific,2008,0.00018600673926982836
+Total Asia Pacific,2008,0.03361225911059762
+Canada,2009,0.0010958602651953697
+Mexico,2009,0.000271451601292938
+US,2009,0.02087121456861496
+Total North America,2009,0.022238526435103267
+Argentina,2009,7.649305189261213e-07
+Brazil,2009,0.0
+Chile,2009,0.0
+Colombia,2009,0.0
+Ecuador,2009,7.920957756368807e-08
+Peru,2009,0.0
+Trinidad & Tobago,2009,3.9601774915354326e-05
+Venezuela,2009,0.0
+Central America,2009,7.3828809945553076e-06
+Other Caribbean,2009,0.0002019715790737564
+Other South America,2009,1.2969147560326633e-06
+Total S. & Cent. America,2009,0.0002510972898361885
+Austria,2009,0.0004917726037092507
+Belgium,2009,0.0016689246986061335
+Bulgaria,2009,3.284564445493743e-05
+Croatia,2009,9.148924959845317e-07
+Cyprus,2009,4.0215054468717426e-05
+Czech Republic,2009,0.0008928445749916136
+Denmark,2009,3.770161129068583e-05
+Estonia,2009,1.0053763617179357e-06
+Finland,2009,4.340209852671251e-05
+France,2009,0.0017493548803031445
+Germany,2009,0.06751102209091187
+Greece,2009,0.0005026881699450314
+Hungary,2009,1.0053763617179357e-05
+Iceland,2009,0.0
+Ireland,2009,4.265167262929026e-06
+Italy,2009,0.006806397810578346
+Latvia,2009,0.0
+Lithuania,2009,0.0
+Luxembourg,2009,0.0002042522537522018
+Netherlands,2009,0.0004468294500838965
+North Macedonia,2009,0.0
+Norway,2009,7.741397712379694e-05
+Poland,2009,0.0
+Portugal,2009,0.0016086021205410361
+Romania,2009,1.015531688608462e-05
+Slovakia,2009,0.0
+Slovenia,2009,4.0215054468717426e-05
+Spain,2009,0.06099552661180496
+Sweden,2009,7.037634350126609e-05
+Switzerland,2009,0.000542903202585876
+Turkey,2009,0.0
+Ukraine,2009,0.0
+United Kingdom,2009,0.00020107734599150717
+Other Europe,2009,2.1193333850533236e-05
+Total Europe,2009,0.14401195344811413
+Azerbaijan,2009,0.0
+Belarus,2009,0.0
+Kazakhstan,2009,0.0
+Russian Federation,2009,0.0
+Turkmenistan,2009,0.0
+USSR,2009,0.0
+Uzbekistan,2009,0.0
+Other CIS,2009,7.414650582404647e-08
+Total CIS,2009,7.414650582404647e-08
+Iran,2009,3.016129085153807e-06
+Iraq,2009,0.0
+Israel,2009,0.00024129032681230456
+Kuwait,2009,0.0
+Oman,2009,0.0
+Qatar,2009,0.0
+Saudi Arabia,2009,6.122741979197599e-06
+United Arab Emirates,2009,6.388161273207515e-05
+Other Middle East,2009,3.0161289942043368e-05
+Total Middle East,2009,0.0003444721005507745
+Algeria,2009,0.0
+Egypt,2009,2.2118279957794584e-05
+Morocco,2009,1.0155316658710944e-06
+South Africa,2009,0.0002342526859138161
+Eastern Africa,2009,0.00033020568378105963
+Middle Africa,2009,8.465268933832704e-06
+Western Africa,2009,0.00014637909191606013
+Other Northern Africa,2009,5.1153547246940434e-05
+Other Southern Africa,2009,7.238709440571256e-05
+Total Africa,2009,0.0008659771838210872
+Australia,2009,0.002918024780228734
+Bangladesh,2009,0.0002523896691855043
+China,2009,0.002804999938234687
+China Hong Kong SAR,2009,0.0
+India,2009,0.0007540322840213776
+Indonesia,2009,1.0053763617179357e-06
+Japan,2009,0.030618863180279732
+Malaysia,2009,0.0
+New Zealand,2009,3.609163104556501e-05
+Pakistan,2009,9.656640031607822e-05
+Philippines,2009,1.2587312085088342e-05
+Singapore,2009,1.6045805750763975e-05
+South Korea,2009,0.005692350212484598
+Sri Lanka,2009,6.82429745211266e-05
+Taiwan,2009,9.16152712306939e-05
+Thailand,2009,0.0004463871009647846
+Vietnam,2009,0.0
+Other Asia Pacific,2009,0.00022890408780185112
+Total Asia Pacific,2009,0.0440381060245123
+Canada,2010,0.002553532598540187
+Mexico,2010,0.00030975459958426654
+US,2010,0.03010651282966137
+Total North America,2010,0.03296980002778582
+Argentina,2010,8.58220062127657e-07
+Brazil,2010,0.0
+Chile,2010,0.0
+Colombia,2010,0.0
+Ecuador,2010,0.0
+Peru,2010,0.0
+Trinidad & Tobago,2010,4.404510764288716e-05
+Venezuela,2010,2.4580525860073976e-05
+Central America,2010,1.015288239614165e-05
+Other Caribbean,2010,0.00046083349477044067
+Other South America,2010,8.844715738476339e-05
+Total S. & Cent. America,2010,0.0006289173881164345
+Austria,2010,0.0008874283521436155
+Belgium,2010,0.005595567170530558
+Bulgaria,2010,0.00014853233005851507
+Croatia,2010,1.1990500752290245e-06
+Cyprus,2010,6.994458817644045e-05
+Czech Republic,2010,0.006152146030217409
+Denmark,2010,6.156233575893566e-05
+Estonia,2010,9.99208396024187e-07
+Finland,2010,4.7352485125884414e-05
+France,2010,0.006195092108100653
+Germany,2010,0.11953529715538025
+Greece,2010,0.0015762312104925513
+Hungary,2010,9.99208350549452e-06
+Iceland,2010,0.0
+Ireland,2010,4.757296665047761e-06
+Italy,2010,0.019041914492845535
+Latvia,2010,0.0
+Lithuania,2010,0.0
+Luxembourg,2010,0.0002113125956384465
+Netherlands,2010,0.000593969423789531
+North Macedonia,2010,2.5979417728194676e-07
+Norway,2010,8.093588257906958e-05
+Poland,2010,0.0
+Portugal,2010,0.00214829808101058
+Romania,2010,2.0186027541058138e-05
+Slovakia,2010,0.0001692858786555007
+Slovenia,2010,0.00012989708920940757
+Spain,2010,0.0705883651971817
+Sweden,2010,8.992875518742949e-05
+Switzerland,2010,0.0009392558713443577
+Turkey,2010,2.398100150458049e-05
+Ukraine,2010,0.0
+United Kingdom,2010,0.0004024521622341126
+Other Europe,2010,5.598814306040367e-05
+Total Europe,2010,0.2347821318005856
+Azerbaijan,2010,0.0
+Belarus,2010,0.0
+Kazakhstan,2010,0.0
+Russian Federation,2010,0.0
+Turkmenistan,2010,1.5937373518681852e-06
+USSR,2010,0.0
+Uzbekistan,2010,0.0
+Other CIS,2010,8.056117621890735e-07
+Total CIS,2010,2.3993491140572587e-06
+Iran,2010,6.994458544795634e-06
+Iraq,2010,0.0
+Israel,2010,0.0006994458963163197
+Kuwait,2010,0.0
+Oman,2010,0.0
+Qatar,2010,0.0
+Saudi Arabia,2010,4.0857630665414035e-05
+United Arab Emirates,2010,0.0001840941549744457
+Other Middle East,2010,4.534907202469185e-05
+Total Middle East,2010,0.000976741212525667
+Algeria,2010,9.09279624465853e-05
+Egypt,2010,0.00025180052034556866
+Morocco,2010,1.0093013997902744e-06
+South Africa,2010,0.00027578152366913855
+Eastern Africa,2010,0.0009679386869585471
+Middle Africa,2010,1.5187967868257601e-05
+Western Africa,2010,0.0002788390927577211
+Other Northern Africa,2010,7.099250638020749e-05
+Other Southern Africa,2010,8.593192069383804e-05
+Total Africa,2010,0.002038409482519654
+Australia,2010,0.009768743999302387
+Bangladesh,2010,0.00044268928468227386
+China,2010,0.007004451006650925
+China Hong Kong SAR,2010,9.99208350549452e-06
+India,2010,0.0011291054543107748
+Indonesia,2010,5.195883659325773e-06
+Japan,2010,0.03978227078914642
+Malaysia,2010,0.0
+New Zealand,2010,3.8254944229265675e-05
+Pakistan,2010,0.0001334542757831514
+Philippines,2010,1.2530073036032263e-05
+Singapore,2010,3.083557021454908e-05
+South Korea,2010,0.0077281249687075615
+Sri Lanka,2010,7.189779717009515e-05
+Taiwan,2010,0.000217098044231534
+Thailand,2010,0.0005827383138239384
+Vietnam,2010,5.89133269386366e-05
+Other Asia Pacific,2010,0.0003177863889689547
+Total Asia Pacific,2010,0.06733408220436132
+Canada,2011,0.005677792709320784
+Mexico,2011,0.00040717743104323745
+US,2011,0.04706279933452606
+Total North America,2011,0.05314776947489008
+Argentina,2011,1.6028887330321595e-05
+Brazil,2011,0.0
+Chile,2011,0.0
+Colombia,2011,0.0
+Ecuador,2011,5.771988185188093e-07
+Peru,2011,0.0
+Trinidad & Tobago,2011,4.377653749543242e-05
+Venezuela,2011,2.959484663733747e-05
+Central America,2011,2.7440435133030405e-05
+Other Caribbean,2011,0.0008654691238589862
+Other South America,2011,0.0003526484457410106
+Total S. & Cent. America,2011,0.0013355354750146375
+Austria,2011,0.0017287160735577345
+Belgium,2011,0.011609521694481373
+Bulgaria,2011,0.0010016763117164373
+Croatia,2011,1.3605684898720938e-06
+Cyprus,2011,0.00011917387746507302
+Czech Republic,2011,0.021669961512088776
+Denmark,2011,0.00015026392065919936
+Estonia,2011,1.9862313820340205e-06
+Finland,2011,5.263512866804376e-05
+France,2011,0.020635364577174187
+Germany,2011,0.19853374361991882
+Greece,2011,0.006061093881726265
+Hungary,2011,9.931156455422752e-06
+Iceland,2011,0.0
+Ireland,2011,5.3834905884286854e-06
+Italy,2011,0.10721378773450851
+Latvia,2011,1.9862313820340205e-06
+Lithuania,2011,9.931156910170102e-07
+Luxembourg,2011,0.00025566769181750715
+Netherlands,2011,0.000996531918644905
+North Macedonia,2011,1.164924651675392e-05
+Norway,2011,8.441483078058809e-05
+Poland,2011,1.9862313820340205e-06
+Portugal,2011,0.0028005861677229404
+Romania,2011,9.931156455422752e-06
+Slovakia,2011,0.003942669369280338
+Slovenia,2011,0.0006554563296958804
+Spain,2011,0.08619783073663712
+Sweden,2011,0.00012910502846352756
+Switzerland,2011,0.0016684343572705984
+Turkey,2011,2.841838613676373e-05
+Ukraine,2011,0.00029892780003137887
+United Kingdom,2011,0.0024198596365749836
+Other Europe,2011,0.00015053647075546905
+Total Europe,2011,0.46844958448411944
+Azerbaijan,2011,0.0
+Belarus,2011,0.0
+Kazakhstan,2011,0.0
+Russian Federation,2011,1.1917388292204123e-05
+Turkmenistan,2011,4.536055712378584e-06
+USSR,2011,0.0
+Uzbekistan,2011,0.0
+Other CIS,2011,1.6485719811498711e-06
+Total CIS,2011,1.8102015985732578e-05
+Iran,2011,6.951809609745396e-06
+Iraq,2011,0.0
+Israel,2011,0.0019067820394411683
+Kuwait,2011,0.0
+Oman,2011,0.0
+Qatar,2011,1.0864685464184731e-05
+Saudi Arabia,2011,5.3548796131508425e-05
+United Arab Emirates,2011,0.00020553522335831076
+Other Middle East,2011,6.736303475918248e-05
+Total Middle East,2011,0.0022510455887641
+Algeria,2011,0.00017994013614952564
+Egypt,2011,0.002428852953016758
+Morocco,2011,1.0031470765170525e-06
+South Africa,2011,0.0007974718464538455
+Eastern Africa,2011,0.0017619770147092595
+Middle Africa,2011,3.5662785009549225e-05
+Western Africa,2011,0.00042127966862892663
+Other Northern Africa,2011,9.058952991836122e-05
+Other Southern Africa,2011,0.00014598799862142187
+Total Africa,2011,0.005862765079584165
+Australia,2011,0.020304711535573006
+Bangladesh,2011,0.0012278782669454813
+China,2011,0.025920318439602852
+China Hong Kong SAR,2011,2.9793469366268255e-05
+India,2011,0.00821306649595499
+Indonesia,2011,7.6469905252452e-06
+Japan,2011,0.05401705205440521
+Malaysia,2011,0.0
+New Zealand,2011,4.09845779358875e-05
+Pakistan,2011,0.0002664529311005026
+Philippines,2011,1.2036562111461535e-05
+Singapore,2011,4.861301204073243e-05
+South Korea,2011,0.009164025075733662
+Sri Lanka,2011,8.654157136334106e-05
+Taiwan,2011,0.0006119830650277436
+Thailand,2011,0.0009378984104841948
+Vietnam,2011,5.855409835930914e-05
+Other Asia Pacific,2011,0.0005015790794828945
+Total Asia Pacific,2011,0.12144913563601278
+Canada,2012,0.008694417774677277
+Mexico,2012,0.0006810967461206019
+US,2012,0.08920407295227051
+Total North America,2012,0.09857958747306839
+Argentina,2012,8.067509043030441e-05
+Brazil,2012,1.5942760001053102e-05
+Chile,2012,3.359978791195317e-06
+Colombia,2012,0.0
+Ecuador,2012,3.2145794648386072e-06
+Peru,2012,0.0005892967456020415
+Trinidad & Tobago,2012,6.147638487163931e-05
+Venezuela,2012,5.1526450988603756e-05
+Central America,2012,3.651491579148569e-05
+Other Caribbean,2012,0.0020058134384228765
+Other South America,2012,0.0005336885474491737
+Total S. & Cent. America,2012,0.003381508891813212
+Austria,2012,0.0033312842715531588
+Belgium,2012,0.02120283804833889
+Bulgaria,2012,0.007686483208090067
+Croatia,2012,2.3729806343908422e-05
+Cyprus,2012,0.0002171612868551165
+Czech Republic,2012,0.021208997815847397
+Denmark,2012,0.0010252096690237522
+Estonia,2012,2.961290419989382e-06
+Finland,2012,5.674819476553239e-05
+France,2012,0.03964505344629288
+Germany,2012,0.2639891505241394
+Greece,2012,0.01672128029167652
+Hungary,2012,7.896774332039058e-05
+Iceland,2012,0.0
+Ireland,2012,6.375942120939726e-06
+Italy,2012,0.18618322908878326
+Latvia,2012,1.9741935375350295e-06
+Lithuania,2012,2.270322511321865e-05
+Luxembourg,2012,0.00037783102015964687
+Netherlands,2012,0.0025047876406461
+North Macedonia,2012,2.7994065021630377e-05
+Norway,2012,8.78516148077324e-05
+Poland,2012,1.0858064342755824e-05
+Portugal,2012,0.0038792903069406748
+Romania,2012,7.896774332039058e-05
+Slovakia,2012,0.004185290541499853
+Slovenia,2012,0.0016089677810668945
+Spain,2012,0.11811510473489761
+Sweden,2012,0.00018754838674794883
+Switzerland,2012,0.002951419446617365
+Turkey,2012,4.202847776468843e-05
+Ukraine,2012,0.003289993619546294
+United Kingdom,2012,0.01336295623332262
+Other Europe,2012,0.0003182523096825207
+Total Europe,2012,0.7124332900326067
+Azerbaijan,2012,0.0
+Belarus,2012,0.0
+Kazakhstan,2012,2.0729032712551998e-07
+Russian Federation,2012,4.157164948992431e-05
+Turkmenistan,2012,9.687678357295226e-06
+USSR,2012,0.0
+Uzbekistan,2012,0.0
+Other CIS,2012,1.1093196235378855e-05
+Total CIS,2012,6.255981440972391e-05
+Iran,2012,6.909677267685765e-06
+Iraq,2012,0.0
+Israel,2012,0.0036423869896680117
+Kuwait,2012,0.0
+Oman,2012,0.0
+Qatar,2012,1.0798838957271073e-05
+Saudi Arabia,2012,0.0002530619967728853
+United Arab Emirates,2012,0.0002392919996054843
+Other Middle East,2012,0.00010101556381414412
+Total Middle East,2012,0.004253465066085482
+Algeria,2012,0.00026378201437182724
+Egypt,2012,0.0049769519828259945
+Morocco,2012,9.997595498134615e-07
+South Africa,2012,0.0008489032043144107
+Eastern Africa,2012,0.0024291671529397263
+Middle Africa,2012,4.354083796442865e-05
+Western Africa,2012,0.0005133989121262061
+Other Northern Africa,2012,0.00013065179336990695
+Other Southern Africa,2012,0.00020630322615033947
+Total Africa,2012,0.009413698883612653
+Australia,2012,0.02380877360701561
+Bangladesh,2012,0.0015396439703181386
+China,2012,0.0354812927544117
+China Hong Kong SAR,2012,2.9612903745146468e-05
+India,2012,0.02071916125714779
+Indonesia,2012,2.9711613024119288e-05
+Japan,2012,0.07276781648397446
+Malaysia,2012,6.909677176736295e-05
+New Zealand,2012,4.7607180022168905e-05
+Pakistan,2012,0.0006507632788270712
+Philippines,2012,1.302967757510487e-05
+Singapore,2012,8.087283640634269e-05
+South Korea,2012,0.011125534772872925
+Sri Lanka,2012,9.87868697848171e-05
+Taiwan,2012,0.0015780699905008078
+Thailand,2012,0.004920430481433868
+Vietnam,2012,5.819922444061376e-05
+Other Asia Pacific,2012,0.0009125008664057077
+Total Asia Pacific,2012,0.17393090453967375
+Canada,2013,0.014707345515489578
+Mexico,2013,0.0010400194441899657
+US,2013,0.15737353265285492
+Total North America,2013,0.17312089761253446
+Argentina,2013,0.00014789939450565726
+Brazil,2013,4.7032353904796764e-05
+Chile,2013,6.629201379837468e-05
+Colombia,2013,0.0
+Ecuador,2013,3.5945493436884135e-05
+Peru,2013,0.0019318851409479976
+Trinidad & Tobago,2013,6.110604590503499e-05
+Venezuela,2013,5.258966120891273e-05
+Central America,2013,7.964909309521317e-05
+Other Caribbean,2013,0.002420358531594502
+Other South America,2013,0.0004567822484773387
+Total S. & Cent. America,2013,0.005299539976874712
+Austria,2013,0.006141746416687965
+Belgium,2013,0.02594161592423916
+Bulgaria,2013,0.01365748606622219
+Croatia,2013,0.00011070320033468306
+Cyprus,2013,0.00046114070573821664
+Czech Republic,2013,0.019943393766880035
+Denmark,2013,0.0050778621807694435
+Estonia,2013,1.373610575683415e-05
+Finland,2013,6.330382166197523e-05
+France,2013,0.04644985869526863
+Germany,2013,0.3004380762577057
+Greece,2013,0.03579335659742355
+Hungary,2013,0.0002452876069582999
+Iceland,2013,0.0
+Ireland,2013,6.862785539851757e-06
+Italy,2013,0.21181663870811462
+Latvia,2013,1.962300757440971e-06
+Lithuania,2013,0.0004395553842186928
+Luxembourg,2013,0.0007234807126224041
+Netherlands,2013,0.005061754956841469
+North Macedonia,2013,8.880392124410719e-05
+Norway,2013,9.615274029783905e-05
+Poland,2013,1.471725590818096e-05
+Portugal,2013,0.004701083060353994
+Romania,2013,0.004120831843465567
+Slovakia,2013,0.005769164301455021
+Slovenia,2013,0.0021094733383506536
+Spain,2013,0.12863753736019135
+Sweden,2013,0.00034340264392085373
+Switzerland,2013,0.004905751906335354
+Turkey,2013,6.656728510279208e-05
+Ukraine,2013,0.0055925571359694
+United Kingdom,2013,0.019723694771528244
+Other Europe,2013,0.0005230807054203979
+Total Europe,2013,0.8490806404632849
+Azerbaijan,2013,7.849203029763885e-06
+Belarus,2013,3.924601514881942e-06
+Kazakhstan,2013,7.725578143435996e-06
+Russian Federation,2013,0.00010596424544928595
+Turkmenistan,2013,1.813901872083079e-05
+USSR,2013,0.0
+Uzbekistan,2013,0.0
+Other CIS,2013,4.128435739403358e-05
+Total CIS,2013,0.00018488700425223215
+Iran,2013,6.868052878417075e-06
+Iraq,2013,0.00045427263830788434
+Israel,2013,0.0047575985081493855
+Kuwait,2013,1.7856937120086513e-06
+Oman,2013,1.1773804544645827e-05
+Qatar,2013,3.680295048980042e-05
+Saudi Arabia,2013,0.00041674362728372216
+United Arab Emirates,2013,0.0008381280931644142
+Other Middle East,2013,0.00016915032938413788
+Total Middle East,2013,0.006693123697914416
+Algeria,2013,0.0002806090051308274
+Egypt,2013,0.0002495752414688468
+Morocco,2013,9.910610287988675e-07
+South Africa,2013,0.0023841955699026585
+Eastern Africa,2013,0.0030097967969027195
+Middle Africa,2013,5.913393376033582e-05
+Western Africa,2013,0.0008067803397580064
+Other Northern Africa,2013,0.000218156341361464
+Other Southern Africa,2013,0.0002678736918824143
+Total Africa,2013,0.007277111981196072
+Australia,2013,0.037748780101537704
+Bangladesh,2013,0.0019063360523432493
+China,2013,0.08216042071580887
+China Hong Kong SAR,2013,2.943451181636192e-05
+India,2013,0.033682893961668015
+Indonesia,2013,5.3963271057000384e-05
+Japan,2013,0.12665456533432007
+Malaysia,2013,0.001383422059006989
+New Zealand,2013,6.575629959115759e-05
+Pakistan,2013,0.0014221578603610396
+Philippines,2013,1.3873466741642915e-05
+Singapore,2013,0.00012319324014242738
+South Korea,2013,0.016362067312002182
+Sri Lanka,2013,0.00014112003555055708
+Taiwan,2013,0.0031504370272159576
+Thailand,2013,0.012337720952928066
+Vietnam,2013,5.7848628784995526e-05
+Other Asia Pacific,2013,0.0010981061138011228
+Total Asia Pacific,2013,0.3183920969446774
+Canada,2014,0.020677795633673668
+Mexico,2014,0.0021553582046180964
+US,2014,0.2849380075931549
+Total North America,2014,0.30777116143144667
+Argentina,2014,0.0001554978807689622
+Brazil,2014,0.00015684183745179325
+Chile,2014,0.004473714157938957
+Colombia,2014,0.0
+Ecuador,2014,0.00016075164603535086
+Peru,2014,0.0019437235314399004
+Trinidad & Tobago,2014,6.074014163459651e-05
+Venezuela,2014,5.460078682517633e-05
+Central America,2014,0.00026423939925734885
+Other Caribbean,2014,0.0031288013444168428
+Other South America,2014,0.0005771011589672526
+Total S. & Cent. America,2014,0.010976011884736181
+Austria,2014,0.007658309768885374
+Belgium,2014,0.028149370104074478
+Bulgaria,2014,0.012255806475877762
+Croatia,2014,0.0003430433280300349
+Cyprus,2014,0.00081533013144508
+Czech Republic,2014,0.020747395232319832
+Denmark,2014,0.005807926878333092
+Estonia,2014,3.0233533834689297e-05
+Finland,2014,7.560334051959217e-05
+France,2014,0.05767266824841499
+Germany,2014,0.34571558237075806
+Greece,2014,0.03698131442070007
+Hungary,2014,0.0006534344283863902
+Iceland,2014,0.0
+Ireland,2014,9.228198905475438e-06
+Italy,2014,0.21754880249500275
+Latvia,2014,1.950550540641416e-06
+Lithuania,2014,0.0007119509391486645
+Luxembourg,2014,0.0009239855571649969
+Netherlands,2014,0.007653589826077223
+North Macedonia,2014,0.00014026409189682454
+Norway,2014,0.00011313192953821272
+Poland,2014,6.826926983194426e-05
+Portugal,2014,0.006118063814938068
+Romania,2014,0.012632740661501884
+Slovakia,2014,0.005822393111884594
+Slovenia,2014,0.0025064575020223856
+Spain,2014,0.13334964215755463
+Sweden,2014,0.0004583793634083122
+Switzerland,2014,0.008211817592382431
+Turkey,2014,0.0001696979015832767
+Ukraine,2014,0.0041839308105409145
+United Kingdom,2014,0.039538267999887466
+Other Europe,2014,0.0010182925572053136
+Total Europe,2014,0.9580868745925954
+Azerbaijan,2014,2.828298238455318e-05
+Belarus,2014,1.950550540641416e-05
+Kazakhstan,2014,1.2083660294592846e-05
+Russian Federation,2014,0.0015604404034093022
+Turkmenistan,2014,3.0404205972445197e-05
+USSR,2014,0.0
+Uzbekistan,2014,0.0
+Other CIS,2014,7.919966628833208e-05
+Total CIS,2014,0.0017299164237556397
+Iran,2014,6.8269268922449555e-06
+Iraq,2014,0.0005588327185250819
+Israel,2014,0.008196213282644749
+Kuwait,2014,3.196952457074076e-05
+Oman,2014,1.1703303243848495e-05
+Qatar,2014,6.345140718622133e-05
+Saudi Arabia,2014,0.00044746603816747665
+United Arab Emirates,2014,0.003008051309734583
+Other Middle East,2014,0.0004218309222778771
+Total Middle East,2014,0.012746345433242823
+Algeria,2014,0.0005851651658304036
+Egypt,2014,0.0013609868474304676
+Morocco,2014,9.851265758697991e-07
+South Africa,2014,0.010483828373253345
+Eastern Africa,2014,0.003920327890114095
+Middle Africa,2014,9.364593034888458e-05
+Western Africa,2014,0.0009155084861163232
+Other Northern Africa,2014,0.0004119050727240392
+Other Southern Africa,2014,0.00033698684728733497
+Total Africa,2014,0.018109339739680763
+Australia,2014,0.048295632004737854
+Bangladesh,2014,0.002257791580632329
+China,2014,0.22930827736854553
+China Hong Kong SAR,2014,2.9258257200126536e-05
+India,2014,0.0478762611746788
+Indonesia,2014,6.641624349867925e-05
+Japan,2014,0.22965943813323975
+Malaysia,2014,0.0022138748317956924
+New Zealand,2014,0.00018332946638111025
+Pakistan,2014,0.0023223450407385826
+Philippines,2014,0.00016108620911836624
+Singapore,2014,0.00026462142704986036
+South Korea,2014,0.0262773297727108
+Sri Lanka,2014,0.00027389649767428637
+Taiwan,2014,0.005156886298209429
+Thailand,2014,0.018856702372431755
+Vietnam,2014,6.504110933747143e-05
+Other Asia Pacific,2014,0.0014795773079185892
+Total Asia Pacific,2014,0.614747765095899
+Canada,2015,0.02806568704545498
+Mexico,2015,0.0019602442625910044
+US,2015,0.38222581148147583
+Total North America,2015,0.4122517427895218
+Argentina,2015,0.00014234728587325662
+Brazil,2015,0.0005711866542696953
+Chile,2015,0.013185764662921429
+Colombia,2015,0.0
+Ecuador,2015,0.00034957079333253205
+Peru,2015,0.002232256578281522
+Trinidad & Tobago,2015,6.037859566276893e-05
+Venezuela,2015,5.493017306434922e-05
+Central America,2015,0.006004648970701965
+Other Caribbean,2015,0.004149238279723022
+Other South America,2015,0.0011704797051947935
+Total S. & Cent. America,2015,0.027920801699025333
+Austria,2015,0.009084884077310562
+Belgium,2015,0.029631851240992546
+Bulgaria,2015,0.013394789770245552
+Croatia,2015,0.0005551573121920228
+Cyprus,2015,0.0012279211077839136
+Czech Republic,2015,0.021980637684464455
+Denmark,2015,0.005858130287379026
+Estonia,2015,5.719873297493905e-05
+Finland,2015,0.00010965675755869597
+France,2015,0.07041420042514801
+Germany,2015,0.36913540959358215
+Greece,2015,0.03780580312013626
+Hungary,2015,0.0013669527834281325
+Iceland,2015,0.0
+Ireland,2015,1.567266008350998e-05
+Italy,2015,0.22241775691509247
+Latvia,2015,1.938940158652258e-06
+Lithuania,2015,0.0007106215343810618
+Luxembourg,2015,0.0010055439779534936
+Netherlands,2015,0.010746769607067108
+North Macedonia,2015,0.00021910022769588977
+Norway,2015,0.00012990899267606437
+Poland,2015,0.0005525979213416576
+Portugal,2015,0.007718483451753855
+Romania,2015,0.019214896485209465
+Slovakia,2015,0.004905518610030413
+Slovenia,2015,0.002656347816810012
+Spain,2015,0.13435332477092743
+Sweden,2015,0.0009403859730809927
+Switzerland,2015,0.01084836944937706
+Turkey,2015,0.001881935284473002
+Ukraine,2015,0.00461952481418848
+United Kingdom,2015,0.07302886247634888
+Other Europe,2015,0.0013833841164796468
+Total Europe,2015,1.0579735369183254
+Azerbaijan,2015,4.4595621147891507e-05
+Belarus,2015,8.725230145500973e-05
+Kazakhstan,2015,0.0004476140020415187
+Russian Federation,2015,0.0032535414211452007
+Turkmenistan,2015,5.060633702669293e-05
+USSR,2015,0.0
+Uzbekistan,2015,0.0
+Other CIS,2015,0.00010129750080523081
+Total CIS,2015,0.003984907183621544
+Iran,2015,1.4542050848831423e-05
+Iraq,2015,0.0005555548123084009
+Israel,2015,0.011790694668889046
+Kuwait,2015,4.934602475259453e-05
+Oman,2015,3.5870391002390534e-05
+Qatar,2015,6.307371950242668e-05
+Saudi Arabia,2015,0.00044480254291556776
+United Arab Emirates,2015,0.0028996849432587624
+Other Middle East,2015,0.0018754398624878377
+Total Middle East,2015,0.017729009015965858
+Algeria,2015,0.0005622926400974393
+Egypt,2015,0.00040717743104323745
+Morocco,2015,5.5259792134165764e-05
+South Africa,2015,0.02665073238313198
+Eastern Africa,2015,0.004423638877028679
+Middle Africa,2015,0.00012015611741844623
+Western Africa,2015,0.0010632640968992746
+Other Northern Africa,2015,0.0007099889885466837
+Other Southern Africa,2015,0.0003963969074902707
+Total Africa,2015,0.03438890723379018
+Australia,2015,0.06006375327706337
+Bangladesh,2015,0.0025780147407203913
+China,2015,0.38275229930877686
+China Hong Kong SAR,2015,3.877880226355046e-05
+India,2015,0.06365908682346344
+Indonesia,2015,5.118801709613763e-05
+Japan,2015,0.33485662937164307
+Malaysia,2015,0.002646653214469552
+New Zealand,2015,0.0003568370302673429
+Pakistan,2015,0.003701795358210802
+Philippines,2015,0.0013430456165224314
+Singapore,2015,0.0004724518512375653
+South Korea,2015,0.04100806266069412
+Sri Lanka,2015,0.00047232580254785717
+Taiwan,2015,0.008243093267083168
+Thailand,2015,0.02305399812757969
+Vietnam,2015,6.465395563282073e-05
+Other Asia Pacific,2015,0.002311158418820014
+Total Asia Pacific,2015,0.9276738256440922
+Canada,2016,0.03886084258556366
+Mexico,2016,0.0024312695022672415
+US,2016,0.5341030955314636
+Total North America,2016,0.5753952076192945
+Argentina,2016,0.00013755368127021939
+Brazil,2016,0.0008216848946176469
+Chile,2016,0.02457774616777897
+Colombia,2016,0.0
+Ecuador,2016,0.0003734931815415621
+Peru,2016,0.0023225978948175907
+Trinidad & Tobago,2016,6.002132431603968e-05
+Venezuela,2016,5.477861486724578e-05
+Central America,2016,0.011656784615070137
+Other Caribbean,2016,0.005101642060992617
+Other South America,2016,0.0021434910469793067
+Total S. & Cent. America,2016,0.047249793482251334
+Austria,2016,0.010562674142420292
+Belgium,2016,0.029831407591700554
+Bulgaria,2016,0.013376524671912193
+Croatia,2016,0.0006316406070254743
+Cyprus,2016,0.0014064437709748745
+Czech Republic,2016,0.02056816592812538
+Denmark,2016,0.007168062496930361
+Estonia,2016,9.348215098725632e-05
+Finland,2016,0.0002126574399881065
+France,2016,0.07868829369544983
+Germany,2016,0.36193975806236267
+Greece,2016,0.037871990352869034
+Hungary,2016,0.0023515098728239536
+Iceland,2016,0.0
+Ireland,2016,4.5603872422361746e-05
+Italy,2016,0.21302655339241028
+Latvia,2016,3.6814622035308275e-06
+Lithuania,2016,0.0006408828194253147
+Luxembourg,2016,0.0009665091056376696
+Netherlands,2016,0.01543716061860323
+North Macedonia,2016,0.0002284048532601446
+Norway,2016,0.00022936858294997364
+Poland,2016,0.0011950295884162188
+Portugal,2016,0.007921889424324036
+Romania,2016,0.01753995008766651
+Slovakia,2016,0.005136699881404638
+Slovenia,2016,0.0025731686037033796
+Spain,2016,0.13146963715553284
+Sweden,2016,0.0013781390152871609
+Switzerland,2016,0.012846567668020725
+Turkey,2016,0.010052704252302647
+Ukraine,2016,0.0047300043515861034
+United Kingdom,2016,0.10030469298362732
+Other Europe,2016,0.0018235465836369258
+Total Europe,2016,1.092252805085991
+Azerbaijan,2016,0.0003401979338377714
+Belarus,2016,0.0002505707088857889
+Kazakhstan,2016,0.000851970340590924
+Russian Federation,2016,0.004513164050877094
+Turkmenistan,2016,6.72596215736121e-05
+USSR,2016,0.0
+Uzbekistan,2016,4.474614979699254e-05
+Other CIS,2016,0.00010377198941569077
+Total CIS,2016,0.006171680794977874
+Iran,2016,4.818667730432935e-05
+Iraq,2016,0.0005522674764506519
+Israel,2016,0.015761861577630043
+Kuwait,2016,0.0004704368766397238
+Oman,2016,4.043825902044773e-05
+Qatar,2016,8.060667460085824e-05
+Saudi Arabia,2016,0.00044217059621587396
+United Arab Emirates,2016,0.0030453980434685946
+Other Middle East,2016,0.006985140687902458
+Total Middle East,2016,0.02742650686923298
+Algeria,2016,0.0023611471988260746
+Egypt,2016,0.0022513780277222395
+Morocco,2016,0.0038693901151418686
+South Africa,2016,0.03155263513326645
+Eastern Africa,2016,0.005042225148827129
+Middle Africa,2016,0.00017331784118823634
+Western Africa,2016,0.0037526923752579933
+Other Northern Africa,2016,0.0011298423437438032
+Other Southern Africa,2016,0.0005664016989612719
+Total Africa,2016,0.050699029882935065
+Australia,2016,0.0716996118426323
+Bangladesh,2016,0.0021195777226239443
+China,2016,0.6411521434783936
+China Hong Kong SAR,2016,3.854934038827196e-05
+India,2016,0.11136885732412338
+Indonesia,2016,0.00020325140212662518
+Japan,2016,0.41754424571990967
+Malaysia,2016,0.002987573854625225
+New Zealand,2016,0.0005469321622513235
+Pakistan,2016,0.004316385369747877
+Philippines,2016,0.010572301223874092
+Singapore,2016,0.0008527995087206364
+South Korea,2016,0.05316095054149628
+Sri Lanka,2016,0.0007996096974238753
+Taiwan,2016,0.01068784948438406
+Thailand,2016,0.0342414528131485
+Vietnam,2016,5.098150359117426e-05
+Other Asia Pacific,2016,0.003313647279583165
+Total Asia Pacific,2016,1.365656720269044
+Canada,2017,0.03423871845006943
+Mexico,2017,0.011367494240403175
+US,2017,0.7478419542312622
+Total North America,2017,0.7934481669217348
+Argentina,2017,0.00015728545258753002
+Brazil,2017,0.007969308644533157
+Chile,2017,0.037325698882341385
+Colombia,2017,4.79032241855748e-05
+Ecuador,2017,0.00035908259451389313
+Peru,2017,0.0031589590944349766
+Trinidad & Tobago,2017,5.966825847281143e-05
+Venezuela,2017,4.695474126492627e-05
+Central America,2017,0.014390426236815301
+Other Caribbean,2017,0.006565846721002799
+Other South America,2017,0.003281389066387419
+Total S. & Cent. America,2017,0.07336252291653977
+Austria,2017,0.012157561257481575
+Belgium,2017,0.031691815704107285
+Bulgaria,2017,0.013441357761621475
+Croatia,2017,0.0007539967773482203
+Cyprus,2017,0.0016480626072734594
+Czech Republic,2017,0.021047797054052353
+Denmark,2017,0.007199721876531839
+Estonia,2017,0.00013891934941057116
+Finland,2017,0.0004647858440876007
+France,2017,0.08720903098583221
+Germany,2017,0.3713553845882416
+Greece,2017,0.03824092447757721
+Hungary,2017,0.0033436452504247427
+Iceland,2017,0.0
+Ireland,2017,9.465677430853248e-05
+Italy,2017,0.23355409502983093
+Latvia,2017,4.215483841107925e-06
+Lithuania,2017,0.0006514838896691799
+Luxembourg,2017,0.001039145514369011
+Netherlands,2017,0.02111905626952648
+North Macedonia,2017,0.00022754989913664758
+Norway,2017,0.00038285215850919485
+Poland,2017,0.0015808064490556717
+Portugal,2017,0.009503999724984169
+Romania,2017,0.017781676724553108
+Slovakia,2017,0.004847806412726641
+Slovenia,2017,0.0027196290902793407
+Spain,2017,0.13720126450061798
+Sweden,2017,0.002203548327088356
+Switzerland,2017,0.01612422615289688
+Turkey,2017,0.02768135815858841
+Ukraine,2017,0.006914351601153612
+United Kingdom,2017,0.10976774990558624
+Other Europe,2017,0.002154008087472903
+Total Europe,2017,1.1842464836881845
+Azerbaijan,2017,0.0003564000071492046
+Belarus,2017,0.0008526774472557008
+Kazakhstan,2017,0.0008876036736182868
+Russian Federation,2017,0.005211871117353439
+Turkmenistan,2017,6.668129208264872e-05
+USSR,2017,0.0
+Uzbekistan,2017,6.0262256738496944e-05
+Other CIS,2017,9.718367300592945e-05
+Total CIS,2017,0.007532679467203707
+Iran,2017,0.0008220672607421875
+Iraq,2017,0.0005490188486874104
+Israel,2017,0.015740999951958656
+Kuwait,2017,0.0004910464049316943
+Oman,2017,0.00014907484001014382
+Qatar,2017,8.013251499505714e-05
+Saudi Arabia,2017,0.0006230868166312575
+United Arab Emirates,2017,0.0071385386399924755
+Other Middle East,2017,0.011333175439176557
+Total Middle East,2017,0.03692714071712544
+Algeria,2017,0.004828645382076502
+Egypt,2017,0.005772769916802645
+Morocco,2017,0.0039788419380784035
+South Africa,2017,0.0406123548746109
+Eastern Africa,2017,0.005697830563804018
+Middle Africa,2017,0.00023525275105384935
+Western Africa,2017,0.0029070673863316188
+Other Northern Africa,2017,0.001354681695374893
+Other Southern Africa,2017,0.0007072700630033069
+Total Africa,2017,0.06609471457113614
+Australia,2017,0.08543594181537628
+Bangladesh,2017,0.002793026389554143
+China,2017,1.128600001335144
+China Hong Kong SAR,2017,5.3699517593486235e-05
+India,2017,0.2064109742641449
+Indonesia,2017,0.00027831774787046015
+Japan,2017,0.5177461504936218
+Malaysia,2017,0.0031616128981113434
+New Zealand,2017,0.0007392486440949142
+Pakistan,2017,0.006311663892120123
+Philippines,2017,0.011507820338010788
+Singapore,2017,0.0011763691436499357
+South Korea,2017,0.07414642721414566
+Sri Lanka,2017,0.0021519088186323643
+Taiwan,2017,0.01597527414560318
+Thailand,2017,0.04352487251162529
+Vietnam,2017,7.656851812498644e-05
+Other Asia Pacific,2017,0.004651627070579423
+Total Asia Pacific,2017,2.104741504758003
+Canada,2018,0.03616468608379364
+Mexico,2018,0.03059031069278717
+US,2018,0.8982484340667725
+Total North America,2018,0.9650034308433533
+Argentina,2018,0.00102989689912647
+Brazil,2018,0.03296884521842003
+Chile,2018,0.04875386133790016
+Colombia,2018,0.00011429541336838156
+Ecuador,2018,0.0003626910038292408
+Peru,2018,0.007588263135403395
+Trinidad & Tobago,2018,5.931932173552923e-05
+Venezuela,2018,3.343140861034044e-06
+Central America,2018,0.01762245087093106
+Other Caribbean,2018,0.007690537625450133
+Other South America,2018,0.005834973286653167
+Total S. & Cent. America,2018,0.1220284772536786
+Austria,2018,0.013859576545655727
+Belgium,2018,0.037178393453359604
+Bulgaria,2018,0.01278954278677702
+Croatia,2018,0.0007133939070627093
+Cyprus,2018,0.001827107509598136
+Czech Republic,2018,0.02230278216302395
+Denmark,2018,0.00907670333981514
+Estonia,2018,0.0002933582291007042
+Finland,2018,0.0008593586389906704
+France,2018,0.09836969524621964
+Germany,2018,0.4221310615539551
+Greece,2018,0.036104511469602585
+Hungary,2018,0.005990984849631786
+Iceland,2018,0.0
+Ireland,2018,0.000170052531757392
+Italy,2018,0.21576878428459167
+Latvia,2018,1.2124838576710317e-05
+Lithuania,2018,0.0008248318918049335
+Luxembourg,2018,0.0011308102402836084
+Netherlands,2018,0.03531530126929283
+North Macedonia,2018,0.0002170469961129129
+Norway,2018,0.0005798206548206508
+Poland,2018,0.0028573854360729456
+Portugal,2018,0.009572241455316544
+Romania,2018,0.016868097707629204
+Slovakia,2018,0.005571901332587004
+Slovenia,2018,0.002428406151011586
+Spain,2018,0.1213817298412323
+Sweden,2018,0.0037241256795823574
+Switzerland,2018,0.01852538250386715
+Turkey,2018,0.07429011911153793
+Ukraine,2018,0.010548514313995838
+United Kingdom,2018,0.1206616684794426
+Other Europe,2018,0.0024494321678503184
+Total Europe,2018,1.3043942465801592
+Azerbaijan,2018,0.00037393649108707905
+Belarus,2018,0.001123904949054122
+Kazakhstan,2018,0.0013454818399623036
+Russian Federation,2018,0.005947743076831102
+Turkmenistan,2018,6.629134441027418e-05
+USSR,2018,0.0
+Uzbekistan,2018,6.502456380985677e-05
+Other CIS,2018,0.00015090566375874914
+Total CIS,2018,0.009073287928913487
+Iran,2018,0.00211271271109581
+Iraq,2018,0.0035864473320543766
+Israel,2018,0.0174110010266304
+Kuwait,2018,0.0005068430327810347
+Oman,2018,0.00014965080481488258
+Qatar,2018,7.966390694491565e-05
+Saudi Arabia,2018,0.0015190637204796076
+United Arab Emirates,2018,0.011411445215344429
+Other Middle East,2018,0.01946592858985241
+Total Middle East,2018,0.05624275633999787
+Algeria,2018,0.005743344780057669
+Egypt,2018,0.00526761868968606
+Morocco,2018,0.009049863554537296
+South Africa,2018,0.043556079268455505
+Eastern Africa,2018,0.006253398209082661
+Middle Africa,2018,0.0004471998679491662
+Western Africa,2018,0.005994084300255054
+Other Northern Africa,2018,0.0017328399735561106
+Other Southern Africa,2018,0.0012462867571230163
+Total Africa,2018,0.07929071540070254
+Australia,2018,0.11745837330818176
+Bangladesh,2018,0.0030000926926732063
+China,2018,1.684904932975769
+China Hong Kong SAR,2018,6.079563536331989e-05
+India,2018,0.34604185819625854
+Indonesia,2018,0.0008597872802056372
+Japan,2018,0.5831181406974792
+Malaysia,2018,0.006019558757543564
+New Zealand,2018,0.0009603097569197416
+Pakistan,2018,0.006884393747895956
+Philippines,2018,0.01189784798771143
+Singapore,2018,0.001287367776967585
+South Korea,2018,0.0968417301774025
+Sri Lanka,2018,0.003060355084016919
+Taiwan,2018,0.02575131319463253
+Thailand,2018,0.043213192373514175
+Vietnam,2018,0.0002095415984513238
+Other Asia Pacific,2018,0.006248035287683251
+Total Asia Pacific,2018,2.9378176265286697
+Canada,2019,0.03871524706482887
+Mexico,2019,0.09455642104148865
+US,2019,1.0246168375015259
+Total North America,2019,1.1578885056078434
+Argentina,2019,0.007588733918964863
+Brazil,2019,0.063148632645607
+Chile,2019,0.059786003082990646
+Colombia,2019,0.0012531834654510021
+Ecuador,2019,0.0003606010286603123
+Peru,2019,0.007903805002570152
+Trinidad & Tobago,2019,5.910061008762568e-05
+Venezuela,2019,1.2440735190466512e-05
+Central America,2019,0.02163532724898687
+Other Caribbean,2019,0.012008727367600613
+Other South America,2019,0.006503316622683997
+Total S. & Cent. America,2019,0.18025987172879354
+Austria,2019,0.01615201309323311
+Belgium,2019,0.04035410284996033
+Bulgaria,2019,0.013449336402118206
+Croatia,2019,0.000788577483035624
+Cyprus,2019,0.002071244874969125
+Czech Republic,2019,0.021709635853767395
+Denmark,2019,0.009140945971012115
+Estonia,2019,0.0006974783027544618
+Finland,2019,0.0013966836268082261
+France,2019,0.11053264141082764
+Germany,2019,0.42912471294403076
+Greece,2019,0.04202434793114662
+Hungary,2019,0.014205782674252987
+Iceland,2019,0.0
+Ireland,2019,0.00031563028460368514
+Italy,2019,0.22479583323001862
+Latvia,2019,2.9768563763354905e-05
+Lithuania,2019,0.0008644934860058129
+Luxembourg,2019,0.0012372885830700397
+Netherlands,2019,0.05123766511678696
+North Macedonia,2019,0.00022039779287297279
+Norway,2019,0.0009965873323380947
+Poland,2019,0.00674393167719245
+Portugal,2019,0.012734909541904926
+Romania,2019,0.016872331500053406
+Slovakia,2019,0.005589315667748451
+Slovenia,2019,0.0028756887186318636
+Spain,2019,0.14337009191513062
+Sweden,2019,0.006291538942605257
+Switzerland,2019,0.020668132230639458
+Turkey,2019,0.08777625113725662
+Ukraine,2019,0.027830807492136955
+United Kingdom,2019,0.11784109473228455
+Other Europe,2019,0.002866527921923989
+Total Europe,2019,1.4328057892848847
+Azerbaijan,2019,0.0004194359353277832
+Belarus,2019,0.001698620617389679
+Kazakhstan,2019,0.00371249089948833
+Russian Federation,2019,0.00934763252735138
+Turkmenistan,2019,6.604692316614091e-05
+USSR,2019,0.0
+Uzbekistan,2019,6.478482100646943e-05
+Other CIS,2019,0.0006779655304853804
+Total CIS,2019,0.015986977254215162
+Iran,2019,0.0048441337421536446
+Iraq,2019,0.0035732239484786987
+Israel,2019,0.029555048793554306
+Kuwait,2019,0.0005554963718168437
+Oman,2019,0.00015709867875557393
+Qatar,2019,7.937018381198868e-05
+Saudi Arabia,2019,0.001961827278137207
+United Arab Emirates,2019,0.034691717475652695
+Other Middle East,2019,0.028948083927389234
+Total Middle East,2019,0.10436600039975019
+Algeria,2019,0.005836043041199446
+Egypt,2019,0.01412986684590578
+Morocco,2019,0.015007284469902515
+South Africa,2019,0.04652702063322067
+Eastern Africa,2019,0.009980100667235092
+Middle Africa,2019,0.00046366649121409864
+Western Africa,2019,0.007571142726192193
+Other Northern Africa,2019,0.002406705751127447
+Other Southern Africa,2019,0.002607923443292748
+Total Africa,2019,0.10452975406928999
+Australia,2019,0.17362536489963531
+Bangladesh,2019,0.0035493578761816025
+China,2019,2.125648021697998
+China Hong Kong SAR,2019,0.00015752570470795035
+India,2019,0.4390573799610138
+Indonesia,2019,0.0011224180925637484
+Japan,2019,0.6398705840110779
+Malaysia,2019,0.013845181092619896
+New Zealand,2019,0.0012151228729635477
+Pakistan,2019,0.006644878536462784
+Philippines,2019,0.011824872344732285
+Singapore,2019,0.0018468369962647557
+South Korea,2019,0.13468363881111145
+Sri Lanka,2019,0.004748546052724123
+Taiwan,2019,0.038109343498945236
+Thailand,2019,0.0488329716026783
+Vietnam,2019,0.0457204133272171
+Other Asia Pacific,2019,0.008208402070536636
+Total Asia Pacific,2019,3.6987108594494345
+Canada,2020,0.0404696948826313
+Mexico,2020,0.14972010254859924
+US,2020,1.2484041452407837
+Total North America,2020,1.4385939426720142
+Argentina,2020,0.012710422277450562
+Brazil,2020,0.10162170976400375
+Chile,2020,0.07199561595916748
+Colombia,2020,0.001803945517167449
+Ecuador,2020,0.00035700725857168436
+Peru,2020,0.008089390583336353
+Trinidad & Tobago,2020,5.888350642635487e-05
+Venezuela,2020,1.2395034900691826e-05
+Central America,2020,0.025105963472924486
+Other Caribbean,2020,0.014878799997589454
+Other South America,2020,0.007486688967105692
+Total S. & Cent. America,2020,0.24412082233864396
+Austria,2020,0.01931520737707615
+Belgium,2020,0.048334017395973206
+Bulgaria,2020,0.013886220753192902
+Croatia,2020,0.000902918225619942
+Cyprus,2020,0.0027948676142841578
+Czech Republic,2020,0.021152572706341743
+Denmark,2020,0.011161506175994873
+Estonia,2020,0.0023163871373981237
+Finland,2020,0.0020655649714171886
+France,2020,0.12022699415683746
+Germany,2020,0.4679669141769409
+Greece,2020,0.04204341024160385
+Hungary,2020,0.023248963057994843
+Iceland,2020,0.0
+Ireland,2020,0.0005027127335779369
+Italy,2020,0.2358129322528839
+Latvia,2020,4.5826647692592815e-05
+Lithuania,2020,0.0012177578173577785
+Luxembourg,2020,0.0015246649272739887
+Netherlands,2020,0.08099803328514099
+North Macedonia,2020,0.00022844223713036627
+Norway,2020,0.0012639107881113887
+Poland,2020,0.018511394038796425
+Portugal,2020,0.01622028462588787
+Romania,2020,0.016384894028306007
+Slovakia,2020,0.006268427241593599
+Slovenia,2020,0.003481161082163453
+Spain,2020,0.1954004019498825
+Sweden,2020,0.009785553440451622
+Switzerland,2020,0.02457261271774769
+Turkey,2020,0.10353001952171326
+Ukraine,2020,0.05076386034488678
+United Kingdom,2020,0.11822083592414856
+Other Europe,2020,0.003525713468206959
+Total Europe,2020,1.663674983063629
+Azerbaijan,2020,0.00044436813914217055
+Belarus,2020,0.0016072889557108283
+Kazakhstan,2020,0.01169983297586441
+Russian Federation,2020,0.017605865374207497
+Turkmenistan,2020,6.59845900372602e-05
+USSR,2020,0.0
+Uzbekistan,2020,6.472367385867983e-05
+Other CIS,2020,0.00064542077598162
+Total CIS,2020,0.032133484484802466
+Iran,2020,0.005520262289792299
+Iraq,2020,0.003569851629436016
+Israel,2020,0.039359670132398605
+Kuwait,2020,0.0005549720954149961
+Oman,2020,0.0005262642516754568
+Qatar,2020,7.907862163847312e-05
+Saudi Arabia,2020,0.0019599758088588715
+United Arab Emirates,2020,0.04901726543903351
+Other Middle East,2020,0.03605637179862242
+Total Middle East,2020,0.13664371206687065
+Algeria,2020,0.006476429291069508
+Egypt,2020,0.042096883058547974
+Morocco,2020,0.01436948124319315
+South Africa,2020,0.05389145389199257
+Eastern Africa,2020,0.010985037383761664
+Middle Africa,2020,0.0004766084564380435
+Western Africa,2020,0.008094404282928735
+Other Northern Africa,2020,0.0032448598176415544
+Other Southern Africa,2020,0.0033457327817814075
+Total Africa,2020,0.1429808902073546
+Australia,2020,0.225441575050354
+Bangladesh,2020,0.004338810686022043
+China,2020,2.46860671043396
+China Hong Kong SAR,2020,0.0004938631900586188
+India,2020,0.5548311471939087
+Indonesia,2020,0.0016164600383490324
+Japan,2020,0.7178035974502563
+Malaysia,2020,0.019467106088995934
+New Zealand,2020,0.0015240429202094674
+Pakistan,2020,0.006711853668093681
+Philippines,2020,0.012977668084204197
+Singapore,2020,0.002790141385048628
+South Korea,2020,0.1828335076570511
+Sri Lanka,2020,0.007745242211967707
+Taiwan,2020,0.05743386223912239
+Thailand,2020,0.04756629839539528
+Vietnam,2020,0.10174139589071274
+Other Asia Pacific,2020,0.010894915546231232
+Total Asia Pacific,2020,4.424818198129941
+Canada,2021,0.05693887919187546
+Mexico,2021,0.19023679196834564
+US,2021,1.5645064115524292
+Total North America,2021,1.8116820827126503
+Argentina,2021,0.02074875310063362
+Brazil,2021,0.1578071117401123
+Chile,2021,0.1012672707438469
+Colombia,2021,0.003042766125872731
+Ecuador,2021,0.00034731675987131894
+Peru,2021,0.008363109081983566
+Trinidad & Tobago,2021,5.866798892384395e-05
+Venezuela,2021,1.0724712410592474e-05
+Central America,2021,0.02941077139621484
+Other Caribbean,2021,0.01783222265312645
+Other South America,2021,0.00865093291224639
+Total S. & Cent. America,2021,0.34753964721524255
+Austria,2021,0.026212213560938835
+Belgium,2021,0.05292271077632904
+Bulgaria,2021,0.013815407641232014
+Croatia,2021,0.001402643509209156
+Cyprus,2021,0.004411761183291674
+Czech Republic,2021,0.020273976027965546
+Denmark,2021,0.012330159544944763
+Estonia,2021,0.003334693145006895
+Finland,2021,0.002802630653604865
+France,2021,0.14017565548419952
+Germany,2021,0.4647846221923828
+Greece,2021,0.04946440830826759
+Hungary,2021,0.03575846180319786
+Iceland,2021,0.0
+Ireland,2021,0.0007481110515072942
+Italy,2021,0.23586830496788025
+Latvia,2021,6.40279904473573e-05
+Lithuania,2021,0.0017973430221900344
+Luxembourg,2021,0.0016973682213574648
+Netherlands,2021,0.10648290067911148
+North Macedonia,2021,0.000480415066704154
+Norway,2021,0.001618999638594687
+Poland,2021,0.037062644958496094
+Portugal,2021,0.021074166521430016
+Romania,2021,0.016042323783040047
+Slovakia,2021,0.006320844870060682
+Slovenia,2021,0.004268341232091188
+Spain,2021,0.25526416301727295
+Sweden,2021,0.014195995405316353
+Switzerland,2021,0.026771744713187218
+Turkey,2021,0.13134226202964783
+Ukraine,2021,0.06127046421170235
+United Kingdom,2021,0.11375165730714798
+Other Europe,2021,0.004955737263912852
+Total Europe,2021,1.8687671597816689
+Azerbaijan,2021,0.0005199860315769911
+Belarus,2021,0.0016372024547308683
+Kazakhstan,2021,0.015345894731581211
+Russian Federation,2021,0.0217795018106699
+Turkmenistan,2021,6.556345761055127e-05
+USSR,2021,0.0
+Uzbekistan,2021,0.0004617796221282333
+Other CIS,2021,0.0017073228809749708
+Total CIS,2021,0.041517250989272725
+Iran,2021,0.005500058177858591
+Iraq,2021,0.003547067753970623
+Israel,2021,0.050403792411088943
+Kuwait,2021,0.001686474890448153
+Oman,2021,0.0064388117752969265
+Qatar,2021,7.857391756260768e-05
+Saudi Arabia,2021,0.007822553627192974
+United Arab Emirates,2021,0.05889725685119629
+Other Middle East,2021,0.045233085671497975
+Total Middle East,2021,0.17960767507611308
+Algeria,2021,0.006254904437810183
+Egypt,2021,0.04684113338589668
+Morocco,2021,0.017146410420536995
+South Africa,2021,0.063914954662323
+Eastern Africa,2021,0.012720647991955047
+Middle Africa,2021,0.0004751655055770243
+Western Africa,2021,0.010295042646248476
+Other Northern Africa,2021,0.0021043398173787864
+Other Southern Africa,2021,0.003531769619712577
+Total Africa,2021,0.16328436848743877
+Australia,2021,0.29384681582450867
+Bangladesh,2021,0.005771515425294638
+China,2021,3.0803520679473877
+China Hong Kong SAR,2021,0.0011337862815707922
+India,2021,0.6434432864189148
+Indonesia,2021,0.001814487506635487
+Japan,2021,0.7929948568344116
+Malaysia,2021,0.02170376479625702
+New Zealand,2021,0.00196336698718369
+Pakistan,2021,0.006759267300367355
+Philippines,2021,0.013899542391300201
+Singapore,2021,0.0037378205452114344
+South Korea,2021,0.23284092545509338
+Sri Lanka,2021,0.01015197392553091
+Taiwan,2021,0.07507949322462082
+Thailand,2021,0.04699656367301941
+Vietnam,2021,0.24634338915348053
+Other Asia Pacific,2021,0.015081694995899397
+Total Asia Pacific,2021,5.493914618686688
+Canada,2022,0.06617175042629242
+Mexico,2022,0.19092398881912231
+US,2022,1.9442493915557861
+Total North America,2022,2.201345130801201
+Argentina,2022,0.027594655752182007
+Brazil,2022,0.2827574908733368
+Chile,2022,0.1474837064743042
+Colombia,2022,0.0047171516343951225
+Ecuador,2022,0.0003613488806877285
+Peru,2022,0.00853311363607645
+Trinidad & Tobago,2022,5.84540466661565e-05
+Venezuela,2022,1.0685602319426835e-05
+Central America,2022,0.029744852377916686
+Other Caribbean,2022,0.022156950030090883
+Other South America,2022,0.008843585870067727
+Total S. & Cent. America,2022,0.5322619951780432
+Austria,2022,0.03558774292469025
+Belgium,2022,0.0645359680056572
+Bulgaria,2022,0.019652104005217552
+Croatia,2022,0.0014256855938583612
+Cyprus,2022,0.0056488593108952045
+Czech Republic,2022,0.0215715691447258
+Denmark,2022,0.020672600716352463
+Estonia,2022,0.005593868438154459
+Finland,2022,0.003682398470118642
+France,2022,0.17967988550662994
+Germany,2022,0.565994381904602
+Greece,2022,0.06701111793518066
+Hungary,2022,0.044413063675165176
+Iceland,2022,1.7898502235880187e-08
+Ireland,2022,0.0013918596087023616
+Italy,2022,0.2639395594596863
+Latvia,2022,0.0003874035319313407
+Lithuania,2022,0.00321178138256073
+Luxembourg,2022,0.0025929645635187626
+Netherlands,2022,0.16029608249664307
+North Macedonia,2022,0.0008624318870715797
+Norway,2022,0.0028127473779022694
+Poland,2022,0.07799194753170013
+Portugal,2022,0.03302822634577751
+Romania,2022,0.018662674352526665
+Slovakia,2022,0.006100695580244064
+Slovenia,2022,0.006059276405721903
+Spain,2022,0.3352848291397095
+Sweden,2022,0.018424099311232567
+Switzerland,2022,0.03620997443795204
+Turkey,2022,0.15850141644477844
+Ukraine,2022,0.04880434274673462
+United Kingdom,2022,0.12466911971569061
+Other Europe,2022,0.006042039548106004
+Total Europe,2022,2.3407427353979404
+Azerbaijan,2022,0.0005715882289223373
+Belarus,2022,0.0019587925635278225
+Kazakhstan,2022,0.016635732725262642
+Russian Federation,2022,0.022512879222631454
+Turkmenistan,2022,6.53243696433492e-05
+USSR,2022,0.0
+Uzbekistan,2022,0.001727163209579885
+Other CIS,2022,0.005270472652227909
+Total CIS,2022,0.0487419529717954
+Iran,2022,0.006484019570052624
+Iraq,2022,0.003963078837841749
+Israel,2022,0.05709875375032425
+Kuwait,2022,0.001352072460576892
+Oman,2022,0.013543825596570969
+Qatar,2022,0.0025464084465056658
+Saudi Arabia,2022,0.0078028966672718525
+United Arab Emirates,2022,0.07267670333385468
+Other Middle East,2022,0.05723692910396494
+Total Middle East,2022,0.22270468776696362
+Algeria,2022,0.0060913097113370895
+Egypt,2022,0.050558626651763916
+Morocco,2022,0.013588099740445614
+South Africa,2022,0.058191247284412384
+Eastern Africa,2022,0.015668218828068348
+Middle Africa,2022,0.0043390515918417805
+Western Africa,2022,0.01156675190122769
+Other Northern Africa,2022,0.003068149964292388
+Other Southern Africa,2022,0.0038154781409502903
+Total Africa,2022,0.1668869338143395
+Australia,2022,0.3523770868778229
+Bangladesh,2022,0.008127928711473942
+China,2022,4.010221481323242
+China Hong Kong SAR,2022,0.0021896101534366608
+India,2022,0.8931238055229187
+Indonesia,2022,0.004164710175246
+Japan,2022,0.8547618985176086
+Malaysia,2022,0.025829406455159187
+New Zealand,2022,0.002635625656694174
+Pakistan,2022,0.007936179637908936
+Philippines,2022,0.017160451039671898
+Singapore,2022,0.006262508686631918
+South Korea,2022,0.2883870005607605
+Sri Lanka,2022,0.013342196121811867
+Taiwan,2022,0.10021084547042847
+Thailand,2022,0.04717245325446129
+Vietnam,2022,0.24168139696121216
+Other Asia Pacific,2022,0.018799342833062838
+Total Asia Pacific,2022,6.894383927959552
+Canada,2023,0.07146107405424118
+Mexico,2023,0.2538332939147949
+US,2023,2.2492918968200684
+Total North America,2023,2.5745862647891045
+Argentina,2023,0.03060382418334484
+Brazil,2023,0.48143914341926575
+Chile,2023,0.16999027132987976
+Colombia,2023,0.011220403015613556
+Ecuador,2023,0.00035844618105329573
+Peru,2023,0.009905082173645496
+Trinidad & Tobago,2023,5.824165782541968e-05
+Venezuela,2023,1.2227250408614054e-05
+Central America,2023,0.0310458969870524
+Other Caribbean,2023,0.028487183649929193
+Other South America,2023,0.008974352869131508
+Total S. & Cent. America,2023,0.7720950727171498
+Austria,2023,0.04829191416501999
+Belgium,2023,0.06853559613227844
+Bulgaria,2023,0.03207335248589516
+Croatia,2023,0.0035249139182269573
+Cyprus,2023,0.007723460905253887
+Czech Republic,2023,0.02049929089844227
+Denmark,2023,0.03251659870147705
+Estonia,2023,0.0068444376811385155
+Finland,2023,0.0062209609895944595
+France,2023,0.20805056393146515
+Germany,2023,0.5724664926528931
+Greece,2023,0.07948386669158936
+Hungary,2023,0.061127763241529465
+Iceland,2023,8.458506783881603e-08
+Ireland,2023,0.003882361575961113
+Italy,2023,0.2920255959033966
+Latvia,2023,0.00043952438863925636
+Lithuania,2023,0.0033513337839394808
+Luxembourg,2023,0.0028229577001184225
+Netherlands,2023,0.19800107181072235
+North Macedonia,2023,0.002875303151085973
+Norway,2023,0.004820247646421194
+Poland,2023,0.10912138223648071
+Portugal,2023,0.0511905662715435
+Romania,2023,0.017417438328266144
+Slovakia,2023,0.005646361503750086
+Slovenia,2023,0.010096833109855652
+Spain,2023,0.43809598684310913
+Sweden,2023,0.028971204534173012
+Switzerland,2023,0.05651972442865372
+Turkey,2023,0.19188402593135834
+Ukraine,2023,0.0533808171749115
+United Kingdom,2023,0.12929965555667877
+Other Europe,2023,0.010365967399366127
+Total Europe,2023,2.7575676562583027
+Azerbaijan,2023,0.0007425156654790044
+Belarus,2023,0.001433597644791007
+Kazakhstan,2023,0.018306685611605644
+Russian Federation,2023,0.02464025281369686
+Turkmenistan,2023,6.508702063001692e-05
+USSR,2023,0.0
+Uzbekistan,2023,0.0029833512380719185
+Other CIS,2023,0.007702475068299464
+Total CIS,2023,0.055873965062573916
+Iran,2023,0.007127014454454184
+Iraq,2023,0.003948679193854332
+Israel,2023,0.0702553540468216
+Kuwait,2023,0.001208799658343196
+Oman,2023,0.013844809494912624
+Qatar,2023,0.012347493320703506
+Saudi Arabia,2023,0.04039176553487778
+United Arab Emirates,2023,0.128569096326828
+Other Middle East,2023,0.05809784939629026
+Total Middle East,2023,0.3357908614270855
+Algeria,2023,0.00606917729601264
+Egypt,2023,0.04904212802648544
+Morocco,2023,0.019738130271434784
+South Africa,2023,0.059876326471567154
+Eastern Africa,2023,0.017922481415098446
+Middle Africa,2023,0.005628839836617772
+Western Africa,2023,0.013018090253353876
+Other Northern Africa,2023,0.0036567842498698155
+Other Southern Africa,2023,0.004572483663650928
+Total Africa,2023,0.17952444148409086
+Australia,2023,0.4207683503627777
+Bangladesh,2023,0.01186072826385498
+China,2023,5.462727069854736
+China Hong Kong SAR,2023,0.0022566192783415318
+India,2023,1.0605567693710327
+Indonesia,2023,0.006666462868452072
+Japan,2023,0.9070440530776978
+Malaysia,2023,0.03028416633605957
+New Zealand,2023,0.0035152165219187737
+Pakistan,2023,0.011529991403222084
+Philippines,2023,0.023469917476177216
+Singapore,2023,0.008713832125067711
+South Korea,2023,0.2746426463127136
+Sri Lanka,2023,0.016055883839726448
+Taiwan,2023,0.12071668356657028
+Thailand,2023,0.05069486424326897
+Vietnam,2023,0.24035438895225525
+Other Asia Pacific,2023,0.024044585740625735
+Total Asia Pacific,2023,8.675902229594499
